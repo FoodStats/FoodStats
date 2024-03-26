@@ -4,7 +4,7 @@ import random
 import numpy as np
 from scipy.optimize import minimize
 
-df=pandas.read_csv("datasets_EasyEats/finaldsgpt4.csv")
+df=pandas.read_csv("finaldsgpt4.csv")
 df2=pandas.DataFrame()
 df2["Food Item"]=df["item_name"]
 
