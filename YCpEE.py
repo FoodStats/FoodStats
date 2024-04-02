@@ -4,9 +4,10 @@ import random
 import numpy as np
 from scipy.optimize import minimize
 
-df=pandas.read_csv("finaldsgpt4.csv_Dallas.csv")
+df1=pandas.read_csv("finaldsgpt4.csv_Dallas.csv")
+df3=pandas.read_csv("finaldsgpt3.Austin.csv")
 df2=pandas.DataFrame()
-df2["Food Item"]=df["item_name"]
+
 
 
 
@@ -75,6 +76,7 @@ with st.form(key='form1',clear_on_submit=True):
     option = st.radio("Select an option", ["Sedentary (little or no exercise)", "Lightly active (exercise 1–3 days/week)","Active (exercise 6–7 days/week)", "Very active (hard exercise 6–7 days/week)"])
     goals= st.radio("Select an option", ["Lose weight","Maintain weight","Gain weight"])
     calculate= st.form_submit_button("Calculate")
+    city=st.radio("Select an option",["Dallas","Austin"])
 if calculate:
     if validate_input(weight,height,age,Sex,option):
         if Sex=="Female":
@@ -96,7 +98,8 @@ if calculate:
                 st.write("Your Active Metabolic Rate is",round(AMR))
                 
         explicit_dietry_utility=[]
-
+        df=df1 if city=="Dallas" else df3
+        df2["Food Item"]=df["item_name"]
         for i in range(0, len(df)):
             utility_score = calculate_explicit_utility(df.iloc[i]['Proteins'], df.iloc[i]['Minerals'], df.iloc[i]['Vitamins'], df.iloc[i]['Carbohydrates'], df.iloc[i]['Fats'], df.iloc[i]['Fibers'], df.iloc[i]['Sugars'],df.iloc[i]['Calories'],AMRP,goals)
             explicit_dietry_utility.append(utility_score)
