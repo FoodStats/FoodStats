@@ -4,8 +4,8 @@ import random
 import numpy as np
 from scipy.optimize import minimize
 
-df1=pandas.read_csv("finaldsgpt4.csv_Dallas.csv")
-df3=pandas.read_csv("finaldsgpt3.Austin.csv")
+df1=pandas.read_csv("finaldsgpt3.5_austin.csv")
+df3=pandas.read_csv("finaldsgpt3.5_austin.csv")
 df2=pandas.DataFrame()
 
 
@@ -66,7 +66,7 @@ def validate_input(weight,height,age,sex,activity):
     return True
 
 
-with st.form(key='form1',clear_on_submit=True):
+with st.form(key='form1',clear_on_submit=False):
     st.subheader("About you")
     Sex= st.radio("Select an option",["Male","Female"], horizontal=True, label_visibility="hidden")
     height = st.number_input("Height", placeholder="in cm",value=None)
@@ -76,7 +76,7 @@ with st.form(key='form1',clear_on_submit=True):
     option = st.radio("Select an option", ["Sedentary (little or no exercise)", "Lightly active (exercise 1–3 days/week)","Active (exercise 6–7 days/week)", "Very active (hard exercise 6–7 days/week)"])
     goals= st.radio("Select an option", ["Lose weight","Maintain weight","Gain weight"])
     calculate= st.form_submit_button("Calculate")
-    city=st.radio("Select an option",["Dallas","Austin"])
+    city=st.radio("Select your city",["Dallas","Austin"])
 if calculate:
     if validate_input(weight,height,age,Sex,option):
         if Sex=="Female":
@@ -98,7 +98,11 @@ if calculate:
                 st.write("Your Active Metabolic Rate is",round(AMR))
                 
         explicit_dietry_utility=[]
-        df=df1 if city=="Dallas" else df3
+        if city=="Dallas":
+            df=df1
+        else:
+            df=df3
+            df2['Allergens']=df['Alergens']
         df2["Food Item"]=df["item_name"]
         for i in range(0, len(df)):
             utility_score = calculate_explicit_utility(df.iloc[i]['Proteins'], df.iloc[i]['Minerals'], df.iloc[i]['Vitamins'], df.iloc[i]['Carbohydrates'], df.iloc[i]['Fats'], df.iloc[i]['Fibers'], df.iloc[i]['Sugars'],df.iloc[i]['Calories'],AMRP,goals)
