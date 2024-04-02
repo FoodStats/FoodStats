@@ -4,7 +4,7 @@ import random
 import numpy as np
 from scipy.optimize import minimize
 
-df=pandas.read_csv("datasets_EasyEats/finaldsgpt4.csv")
+df=pandas.read_csv("finaldsgpt4.csv_Dallas.csv")
 df2=pandas.DataFrame()
 df2["Food Item"]=df["item_name"]
 
@@ -14,7 +14,7 @@ df2["Food Item"]=df["item_name"]
 
 
 
-def calculate_explicit_utility_weightloss(proteins_rank, minerals_rank, vitamins_rank, carbohydrates_rank, fats_rank, fibers_rank, sugars_rank,calories_rank,user_calorie,goal):
+def calculate_explicit_utility(proteins_rank, minerals_rank, vitamins_rank, carbohydrates_rank, fats_rank, fibers_rank, sugars_rank,calories_rank,user_calorie,goal):
     
     # Define mapping of rankings to weights
     ranking_weights = {'Low': 1, 'Medium': 2, 'High': 3}
@@ -98,7 +98,7 @@ if calculate:
         explicit_dietry_utility=[]
 
         for i in range(0, len(df)):
-            utility_score = calculate_explicit_utility_weightloss(df.iloc[i]['Proteins'], df.iloc[i]['Minerals'], df.iloc[i]['Vitamins'], df.iloc[i]['Carbohydrates'], df.iloc[i]['Fats'], df.iloc[i]['Fibers'], df.iloc[i]['Sugars'],df.iloc[i]['Calories'],AMRP,goals)
+            utility_score = calculate_explicit_utility(df.iloc[i]['Proteins'], df.iloc[i]['Minerals'], df.iloc[i]['Vitamins'], df.iloc[i]['Carbohydrates'], df.iloc[i]['Fats'], df.iloc[i]['Fibers'], df.iloc[i]['Sugars'],df.iloc[i]['Calories'],AMRP,goals)
             explicit_dietry_utility.append(utility_score)
         df2['Explicit Dietry Utility'] = explicit_dietry_utility
         ratings_utility = []
