@@ -75,8 +75,8 @@ with st.form(key='form1',clear_on_submit=False):
     st.subheader("How active are you?")
     option = st.radio("Select an option", ["Sedentary (little or no exercise)", "Lightly active (exercise 1–3 days/week)","Active (exercise 6–7 days/week)", "Very active (hard exercise 6–7 days/week)"])
     goals= st.radio("Select an option", ["Lose weight","Maintain weight","Gain weight"])
-    calculate= st.form_submit_button("Calculate")
     city=st.radio("Select your city",["Dallas","Austin"])
+    calculate= st.form_submit_button("Calculate")
 if calculate:
     if validate_input(weight,height,age,Sex,option):
         if Sex=="Female":
@@ -104,6 +104,8 @@ if calculate:
             df=df3
             df2['Allergens']=df['Alergens']
         df2["Food Item"]=df["item_name"]
+        df2["Price"]=df["price"]
+        df2["Ratings"]=df["score"]
         for i in range(0, len(df)):
             utility_score = calculate_explicit_utility(df.iloc[i]['Proteins'], df.iloc[i]['Minerals'], df.iloc[i]['Vitamins'], df.iloc[i]['Carbohydrates'], df.iloc[i]['Fats'], df.iloc[i]['Fibers'], df.iloc[i]['Sugars'],df.iloc[i]['Calories'],AMRP,goals)
             explicit_dietry_utility.append(utility_score)
@@ -179,5 +181,11 @@ if calculate:
         df2["Final Implicit utility"]=1-(df2["Implicit Utility 1"]*weights[0]+df2["Implicit Utility 2"]*weights[1])
         df2["Final Utility"]=round(df2["Explicit Dietry Utility"]/8)+df2["Ratings Utility"]+df2["Price Utility"]+df2["Final Implicit utility"]
         df2.sort_values(by="Final Utility",ascending=True,inplace=True)
-        st.write(df2.head())
+        if city=="Dallas":
+            st.write("Here are the top 5 food items you can eat in Dallas:")
+            st.write(df2[["Food Item","restaurant_name",'Primary Flavour','Secondary Flavour','Price','Ratings']])
+        else:
+            st.write("Here are the top 5 food items you can eat in Austin:")
+            st.write(df2[["Food Item","restaurant_name",'Allergens','Primary Flavour','Secondary Flavour','Price','Ratings','Final Utility']])
+
 

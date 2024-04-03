@@ -422,7 +422,6 @@ Galbitang,High,Medium,Low,Medium,Low,Low,Low,350.0,main course,Savory,Umami,None
 Pyeodagi Haejangguk,Medium,Medium,Low,Medium,Medium,Medium,Low,350.0,main course,Spicy,Savory,"['Pork', 'Rice']",Spicy pork bone and vegetable soup. Includes a serving of rice.,Charm Korean BBQ (Howard Ln),4.8,16.99 USD,Soups and Stews
 Tthuk Manduguk,Medium,Low,Medium,High,Low,Medium,Low,450.0,main course,Savory,Umami,['none'],Rice cake and dumpling soup. Includes a serving of rice.,Charm Korean BBQ (Howard Ln),4.8,15.99 USD,Soups and Stews
 Altang,High,Medium,Medium,High,Medium,Low,Low,300.0,main course,Spicy,Umami,['fish'],Spicy fish roe soup. Includes a serving of rice.,Charm Korean BBQ (Howard Ln),4.8,17.99 USD,Soups and Stews
-Cold Noodle w/Grilled meats (냉면 콤보),Medium,Medium,Low,High,Low,Low,Low,600.0,main course,Umami,Savory,"['gluten', 'soy', 'sesame']",Cold buckwheat noodle soup with a choice of grilled meat,Charm Korean BBQ (Howard Ln),4.8,0.0 USD,Cold Noodles
 Tteok Galbi (떡갈비),High,Medium,Low,Medium,Medium,Low,Low,500.0,main course,Savory,Umami,"['Soy', 'Gluten']",Grilled ground short rib patty. Includes a serving of rice.,Charm Korean BBQ (Howard Ln),4.8,21.99 USD,Grilled Meats
 Jjusam Bulgogi (쭈삼 불고기),High,Medium,Low,Low,Medium,Low,Low,350.0,main course,Savory,Umami,"['Seafood', 'Pork']",Stir fried baby octopus &amp; pork belly w/ assorted vegetables,Charm Korean BBQ (Howard Ln),4.8,37.99 USD,Chef's Special
 Gopchang Jeongol (곱창 전골),High,Medium,Low,Low,Low,Medium,Low,600.0,main course,Savory,Umami,None,Beef tripe &amp; vegetable hot pot stew,Charm Korean BBQ (Howard Ln),4.8,36.99 USD,Hot Pots
@@ -533,27 +532,6 @@ Torta,Medium,Medium,Medium,Medium,Medium,Medium,Low,700.0,main course,Savory,Ref
 5 oz. Sirloin Steak,High,Medium,Low,Low,Medium,Low,Low,350.0,main course,Savory,Umami,None,USDA hand-cut Sirloin Steaks seasoned and flame-broiled to perfection.  ,Golden Corral (12509 N. Lamar Boulevard),4.8,10.99 USD,Picked for you
 Fried Fish,High,Medium,Low,Medium,High,Low,Low,500.0,main course,Savory,Crispy,None,Flaky and fried to golden perfection. Includes a small side of fries and hush puppies.,Golden Corral (12509 N. Lamar Boulevard),4.8,10.99 USD,Picked for you
 Meatloaf,High,Medium,Low,Low,Medium,Low,Low,600.0,main course,Savory,Rich,None,Grandma's recipe made daily with a delectable mix of ground beef and pork. ,Golden Corral (12509 N. Lamar Boulevard),4.8,10.99 USD,Picked for you
-Spicy Cayenne Spare Ribs,High,Medium,Low,Medium,High,Low,Medium,800.0,main course,Spicy,Savory,None,"Individual Meal, Family Meal or Group Catering.
-
-Individual Meals come with two sides, yeast roll, and cookies.
-Family Meals come with two large sides, yeast rolls, and cookies.
-Additional sides can be purchased a la carte with Catering size.",Golden Corral (12509 N. Lamar Boulevard),4.8,0.0 USD,Summer Backyard BBQ 
-Bourbon BBQ Ribs,High,Medium,Low,Medium,High,Low,High,800.0,main course,Savory,Sweet,"['Wheat', 'Soy']","Available as an Individual Meal with Six Bones or 12 Bones, choice of two sides, yeast roll and cookies. ",Golden Corral (12509 N. Lamar Boulevard),4.8,0.0 USD,Summer Backyard BBQ 
-Johnsonville® Brats,High,Medium,Low,Medium,High,Low,Low,800.0,main course,Savory,Spicy,None,"Individual Meal, Family Meal or Group Catering.
-
-Individual Meal come with two brats served over a bed of bell peppers and onions, choice of two sides, yeast roll, and cookies.
-Family Meals come served over a bed of bell peppers and onions with choice of two large sides, yeast rolls, and cookies.
-Catering size served over a bed of bell peppers and onions. Additional sides may be purchased a la carte.",Golden Corral (12509 N. Lamar Boulevard),4.8,0.0 USD,Summer Backyard BBQ 
-BBQ Chicken,High,Medium,Medium,Medium,Medium,Low,Low,500.0,main course,Savory,Spicy,None,"Individual Meal, Family Meal, or Group Catering
-
-Individual Meal includes two pieces in your choice of white meat, dark meat or mixed with choice of two sides and a yeast roll.
-Family Meals come with your choice of white meat, dark meat or mixed, choice of two large sides, yeast rolls, and cookies.
-Additional sides may be purchased a la carte with Catering size.",Golden Corral (12509 N. Lamar Boulevard),4.8,0.0 USD,Summer Backyard BBQ 
-BBQ Chicken,High,Medium,Medium,Medium,Medium,Low,Low,500.0,main course,Savory,Spicy,None,"Traditional crust brushed with garlic butter with 100% real cheese, cheddar, premium chicken and sliced red onion drizzled with our Honey BBQ Sauce.
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
 BBQ Chicken,High,Medium,Medium,Medium,Medium,Low,Low,500.0,main course,Savory,Spicy,None,"BBQ Chicken – Chicken, chopped bacon, jalapenos, red onions, mozzarella, mild cheddar, BBQ sauce",Schlotzsky's (Canyon Ridge Dr),4.7,12.59 USD,Calzones
 Pot Roast,High,Medium,Low,Medium,Medium,High,Low,600.0,main course,Savory,Umami,None,"Our Pot Roast is slow-cooked overnight for awesome tenderness. Served on a bed of potatoes, carrots, onions, celery and gravy. ",Golden Corral (12509 N. Lamar Boulevard),4.8,10.99 USD,Individual Meals
 Smoked Pulled Pork,High,Medium,Low,Low,High,Low,Low,500.0,main course,Smoky,Savory,['Pork'],Pork shoulder seasoned and slow-smoked on-site with hickory wood for tender pull-apart goodness.,Golden Corral (12509 N. Lamar Boulevard),4.8,10.99 USD,Individual Meals
@@ -678,7 +656,6 @@ St. Louis Rib-N-Meat Combo,High,Medium,Low,Medium,High,Low,Medium,800.0,main cou
 Famous Sampler Appetizer,High,Medium,Low,High,High,Medium,Low,800.0,appetizers,Savory,Spicy,None,"Tortilla chips layered with cheddar cheese, lettuce, tomato, Wilbur Beans, jalapenos, seasoned sour cream, Rich &amp; Sassy and Texas Beef Brisket, along with cheese curds and boneless or traditional wings tossed in choice of sauce. ",Famous Dave's (Austin/Parmer),4.1,15.59 USD,Appetizers
 Traditional Wings Appetizer,High,Medium,Low,Low,Medium,Low,Low,350.0,appetizers,Savory,Spicy,None,"Seasoned and tossed in your choice of one of the following sauces: Rich &amp; Sassy, Sweet &amp; Zesty BBQ, Buffalo or Devil’s Spit.",Famous Dave's (Austin/Parmer),4.1,12.69 USD,Appetizers
 Boneless Wings,High,Low,Low,Medium,Medium,Low,Medium,750.0,appetizers,Spicy,Sweet,None,"Hand-tossed in choice of sauce, celery, dipping sauce.",Chili's (12901 N IH 35),4.5,11.44 USD,Appetizers
-Boneless Wings,High,Low,Low,Medium,Medium,Low,Medium,750.0,appetizers,Spicy,Sweet,None,"JUICY ALL-WHITE CHICKEN, LIGHTLY BREADED AND PERFECTLY CRISPY.",Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,0.0 USD,Wings &amp; Tenders
 Dave's Sassy BBQ Salad,Medium,Low,Medium,High,Medium,Low,Medium,700.0,salads,Savory,Sweet,None,"Choice of Georgia Chopped Pork, Texas Beef Brisket or
 Chicken (BBQ pulled, grilled or crispy). Served with bacon,
 cheddar cheese, tomatoes, shoestring potatoes &amp; honey
@@ -1193,13 +1170,6 @@ Coffee High Protein - Vanilla,High,Medium,Low,High,Low,Low,High,600.0,drinks,Ric
 
 Allergens:  Almonds (tree nuts), Whey Protein (milk), Dairy Whey Blend (milk, egg), Nonfat Milk (milk)
 Contains naturally derived caffeine","Smoothie King (12314 N. Interstate 35, Unit 100)",4.9,7.0 USD,Feel Energized
-Gladiator® Coffee Strawberry,Medium,Low,Low,Medium,Low,Low,Low,760.0,drinks,Sweet,Rich,"['milk', 'egg']","Gladiator® Protein, Cold Brew Coffee, Choice of One Fruit or Veggie
-
-230 - 760 Calories 
-
-Allergens:    Gladiator® Protein (milk, egg)
-
-","Smoothie King (12314 N. Interstate 35, Unit 100)",4.9,0.0 USD,Feel Energized
 Keto Champ™ Coffee,High,Low,Low,Medium,High,Low,Low,410.0,drinks,Creamy,Nutty,"['Milk', 'Tree Nuts']","Cold Brew Coffee, Keto Protein Blend, Almond Butter, Califia Farms® Almond Milk, 100% Cocoa
 
 410 - 820 Calories 
@@ -1231,13 +1201,6 @@ The Hulk™ Coffee,Medium,Low,Low,High,Medium,Low,Medium,640.0,drinks,Sweet,Rich
 Allergens:    Butter Pecan Ice Cream (milk, tree nuts), Hulk Blend (milk) 
 
 Contains naturally derived caffeine","Smoothie King (12314 N. Interstate 35, Unit 100)",4.9,7.35 USD,Feel Energized
-Gladiator® Coffee Vanilla,High,Medium,Medium,Low,Low,Low,Medium,760.0,drinks,Sweet,Rich,"['milk', 'egg']","Gladiator® Protein, Cold Brew Coffee, Choice of One Fruit or Veggie
-
-230 - 760 Calories 
-
-Allergens:    Gladiator® Protein (milk, egg)
-
-","Smoothie King (12314 N. Interstate 35, Unit 100)",4.9,0.0 USD,Feel Energized
 The Activator® Recovery Blueberry Strawberry,Medium,Low,Low,Medium,Low,Low,Medium,390.0,drinks,Sweet,Refreshing,"['milk', 'egg', 'tree nuts-coconut']","Gladiator® Protein, Coconut Water, Strawberries,  Wild Blueberries, Apple Blueberry Juice Blend
 
 260 - 520 Calories 
@@ -1560,7 +1523,6 @@ Vermicelli Bowl,Medium,Medium,Medium,High,Medium,High,Low,500.0,main course,Savo
 Iced Vietnamese Coffee,Low,Low,Low,Medium,Medium,Low,High,150.0,drinks,Sweet,Rich,['Dairy'],Cafe Du Monde drip coffee with condensed milk.,NG Cafe,4.8,5.99 USD,Beverages
 Asian Shortbread Cookies,Low,Low,Low,Medium,Medium,Low,High,250.0,dessert,Sweet,Nutty,[],15 cookies per order. ,NG Cafe,4.8,8.5 USD,Desserts and More
 Sweet Sesame Hollow Bread,Low,Low,Low,High,Low,Low,High,250.0,appetizers,Sweet,Nutty,None,One per order.,NG Cafe,4.8,3.5 USD,Desserts and More
-Baguette,Low,Low,Low,High,Low,Low,Low,250.0,appetizers,Savory,Earthy,None,French Bread - Made from scratch daily. ,NG Cafe,4.8,0.0 USD,Desserts and More
 Mango Sweet Rice,Low,Medium,High,High,Medium,Low,High,400.0,dessert,Sweet,Creamy,['Coconut milk'],Sliced mango with sticky rice and coconut milk. No modifications allowed.,NG Cafe,4.8,8.5 USD,Desserts and More
 Sweet Silken Tofu,Medium,Low,Medium,High,Low,Low,High,200.0,dessert,Sweet,Creamy,None,Homemade tofu dessert. ,NG Cafe,4.8,5.0 USD,Desserts and More
 Egg Noodles,Medium,Low,Low,High,Low,Low,Low,250.0,main course,Savory,Umami,None,Small side of plain noodles.,NG Cafe,4.8,5.5 USD,Desserts and More
@@ -1658,16 +1620,6 @@ Family Feast,Medium,Low,Medium,High,Low,High,Low,800.0,main course,Savory,Rich,N
 Family Feast with Soup or Mac,High,Medium,Medium,High,Medium,Medium,Low,800.0,main course,Savory,Rich,None,"A meal to feed the whole family, including 2 half sandwiches, 2 kids' sandwiches, 1 whole salad, 1 group soup or family Mac &amp; Cheese and 1 whole French baguette. Serves 4-6.",Panera (13000 North I-35 Frontage Road),4.6,35.49 USD,Sandwiches
 Premium Family Feast with Cookies,Medium,Low,Medium,High,Medium,Low,High,800.0,main course,Savory,Sweet,"['Gluten', 'Dairy']","A meal to feed the whole family. Includes 4 Half Sandwiches, 1 Whole Salad, 1 Quart of Soup, 1 Whole French Baguette, and 4 Chocolate Chippers. Serves 4-6.",Panera (13000 North I-35 Frontage Road),4.6,44.59 USD,Sandwiches
 Premium Family Feast,Medium,Medium,Low,High,Low,Medium,Low,800.0,main course,Savory,Savory,None,"A meal to feed the whole family. Includes 4 Half Sandwiches, 1 Whole Salad, 1 Quart of Soup, and 1 Whole French Baguette. Serves 4-6.",Panera (13000 North I-35 Frontage Road),4.6,39.99 USD,Sandwiches
-Sandwich and Soup/Mac,Medium,Low,Low,High,Medium,Low,Low,600.0,main course,Savory,Umami,"['Gluten', 'Dairy']",Selection of a half soup and a half sandwich,Panera (13000 North I-35 Frontage Road),4.6,0.0 USD,You Pick Two
-Soup/Mac and Salad,Low,Medium,High,Medium,Low,High,Low,350.0,main course,Savory,Refreshing,None,Selection of a half soup and a half salad,Panera (13000 North I-35 Frontage Road),4.6,0.0 USD,You Pick Two
-Sandwich and Salad,Medium,Medium,Low,High,Low,High,Low,500.0,main course,Savory,Refreshing,"['Gluten', 'Dairy', 'Nuts']",Selection of a half sandwich and a half salad,Panera (13000 North I-35 Frontage Road),4.6,0.0 USD,You Pick Two
-Flatbread Pizza and Soup/Mac,Low,Medium,Low,High,Medium,Low,Low,700.0,main course,Savory,Umami,None,Selection of a flatbread pizza and a half soup,Panera (13000 North I-35 Frontage Road),4.6,0.0 USD,You Pick Two
-Flatbread Pizza and Sandwich,Medium,Low,Low,Medium,Medium,Low,Low,800.0,main course,Savory,Umami,None,Selection of a flatbread pizza and a half sandwich,Panera (13000 North I-35 Frontage Road),4.6,0.0 USD,You Pick Two
-Flatbread Pizza and Salad,Medium,Low,Medium,High,Medium,Low,Low,600.0,main course,Savory,Refreshing,"['Gluten', 'Dairy', 'Nuts']",Selection of a flatbread Pizza and a half salad,Panera (13000 North I-35 Frontage Road),4.6,0.0 USD,You Pick Two
-Warm Bowl and Soup/Mac,Medium,Low,Medium,High,Medium,Low,Medium,400.0,main course,Savory,Umami,None,Selection of a warm bowl and a half soup,Panera (13000 North I-35 Frontage Road),4.6,0.0 USD,You Pick Two
-Warm Bowl and Sandwich,Medium,Medium,Low,High,Medium,Medium,Low,600.0,main course,Savory,Umami,None,Selection of a warm bowl and a half sandwich,Panera (13000 North I-35 Frontage Road),4.6,0.0 USD,You Pick Two
-Warm Bowl and Salad,Medium,Low,High,Medium,Low,High,Low,500.0,main course,Savory,Refreshing,"['Nuts', 'Gluten', 'Dairy']",Selection of a warm bowl and a half salad,Panera (13000 North I-35 Frontage Road),4.6,0.0 USD,You Pick Two
-Warm Bowl and Flatbread Pizza,Medium,Low,Medium,High,Medium,Low,Low,850.0,main course,Savory,Umami,"['Gluten', 'Dairy']",Selection of a warm bowl and a flatbread pizza,Panera (13000 North I-35 Frontage Road),4.6,0.0 USD,You Pick Two
 Strawberry Poppyseed Salad with Chicken,High,Low,High,Medium,Low,High,High,340.0,salads,Refreshing,Sweet,['Tree Nuts'],"Whole (340 Cal.), Half (170 Cal.) Chicken raised without antibiotics, romaine, mandarin oranges and fresh strawberries, blueberries and pineapple tossed in poppyseed dressing and topped with toasted pecan pieces. Allergens: Contains Tree Nuts",Panera (13000 North I-35 Frontage Road),4.6,9.69 USD,Salads
 NEW Citrus Asian Crunch Salad with Chicken,Medium,Medium,High,Medium,Medium,High,Low,640.0,salads,Sweet,Spicy,"['Wheat', 'Soy']","Whole (640 Cal.), Half (320 Cal.) Romaine and a blend of chopped broccoli, green cabbage, carrots, and kale tossed with edamame, pickled red onions, and fresh cilantro in tangerine soy ginger dressing and topped with warm seared chicken thigh meat, crispy carrots, and a teriyaki drizzle. Allergens: Contains Wheat, Soy",Panera (13000 North I-35 Frontage Road),4.6,9.69 USD,Salads
 Green Goddess Cobb Salad with Chicken,High,Medium,High,Low,Medium,Medium,Low,500.0,salads,Savory,Refreshing,"['Milk', 'Egg']","Whole (500 Cal.), Half (250 Cal.) Chicken raised without antibiotics, arugula, romaine, baby kale and red leaf blend, grape tomatoes and pickled red onions tossed in freshly made Green Goddess dressing and topped with fresh avocado, Applewood-smoked bacon and cage-free hard-boiled egg. Allergens: Contains Milk, Egg",Panera (13000 North I-35 Frontage Road),4.6,9.69 USD,Salads
@@ -1709,7 +1661,6 @@ Decaf Coffee,Low,Low,Low,Low,Low,Low,Low,20.0,drinks,Sweet,Refreshing,['none'],"
 Madagascar Vanilla Cream Cold Brew,Low,Low,Low,Medium,Medium,Low,Medium,190.0,drinks,Rich,Sweet,['Milk'],"Regular (190 Cal.), Large (260 Cal.) Our dark roast cold brew coffee with Madagascar vanilla syrup and half and half, served over ice. Allergens: Contains Milk",Panera (13000 North I-35 Frontage Road),4.6,4.19 USD,Beverages
 Madagascar Vanilla Almond Cold Brew,Low,Low,Low,Medium,Low,Low,Medium,90.0,drinks,Sweet,Rich,['Tree Nuts'],"Regular (90 Cal.), Large (120 Cal.) Our dark roast cold brew coffee with Madagascar vanilla syrup and almondmilk, served over ice. Allergens: Contains Tree Nuts",Panera (13000 North I-35 Frontage Road),4.6,4.19 USD,Beverages
 Cold Brew,Low,Low,Low,Low,Low,Low,Low,10.0,drinks,Rich,Refreshing,['none'],"Regular (10 Cal.), Large (15 Cal.) Our dark roast cold brew coffee served over ice. Allergens: none",Panera (13000 North I-35 Frontage Road),4.6,3.59 USD,Beverages
-Cold Brew,Low,Low,Low,Low,Low,Low,Low,10.0,drinks,Rich,Refreshing,['none'],"An ultra-smooth, full-bodied coffee like no other.  Craft-brewed in small batches. Limited quantities available daily.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Iced Drinks
 Cafe Blend Light Roast Coffee Tote,Low,Low,Low,Low,Low,Low,Low,140.0,drinks,Rich,Earthy,['none'],"140 Cal. Carefully roasted from Arabica beans and freshly brewed. Brewed fresh, so please allow additional 15 min./tote to prepare your order. Serves 10. 120 fl oz per tote. Allergens: none",Panera (13000 North I-35 Frontage Road),4.6,22.29 USD,Beverages
 Decaf Coffee Tote,Low,Low,Low,Low,Low,Low,Low,140.0,drinks,Rich,Creamy,['none'],"140 Cal. Perfectly balanced with a clean finish. Serves 10. Brewed fresh, so please allow additional 15 min./tote to prepare your order. 120 fl oz per tote. Allergens: none",Panera (13000 North I-35 Frontage Road),4.6,22.29 USD,Beverages
 Iced Unsweet Tea,Low,Low,Low,Low,Low,Low,Low,20.0,drinks,Refreshing,Tangy,['none'],"Regular (10 Cal.), Large (20 Cal.) Freshly brewed black iced tea. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none",Panera (13000 North I-35 Frontage Road),4.6,3.19 USD,Beverages
@@ -1725,7 +1676,6 @@ Madagascar Vanilla Latte,Low,Low,Low,Medium,Low,Low,High,310.0,drinks,Sweet,Crea
 Caffe Latte,Low,Low,Low,Low,Medium,Low,Low,130.0,drinks,Rich,Creamy,['Milk'],"Regular (130 Cal.), Large (160 Cal.) Espresso with foamed milk. Allergens: Contains Milk",Panera (13000 North I-35 Frontage Road),4.6,4.89 USD,Beverages
 Chocolate Latte,Low,Low,Low,Medium,Medium,Low,Medium,420.0,drinks,Sweet,Rich,['Milk'],"Regular (370 Cal.), Large (420 Cal.) Freshly brewed espresso, foamed milk and chocolate topped with whipped cream and a drizzle of chocolate syrup. Allergens: Contains Milk",Panera (13000 North I-35 Frontage Road),4.6,5.39 USD,Beverages
 Americano,Low,Low,Low,Low,Low,Low,Low,10.0,drinks,Bitter,Rich,['none'],10 Cal. Two shots of espresso made with our favorite espresso beans combined with hot water. Served hot. Allergens: none,Panera (13000 North I-35 Frontage Road),4.6,3.59 USD,Beverages
-Americano,Low,Low,Low,Low,Low,Low,Low,10.0,drinks,Bitter,Rich,['none'],"Our Hot Americano puts the oh! In Americano by combining two shots of Dunkin's 100% Rainforest Alliance Certified™ espresso and water for a rich, espresso-forward taste.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Espresso Drinks
 Espresso,Low,Low,Low,Low,Low,Low,Low,10.0,drinks,Rich,Bitter,['none'],10 Cal. A double espresso shot made with our favorite espresso beans. Served hot. Allergens: none,Panera (13000 North I-35 Frontage Road),4.6,2.59 USD,Beverages
 Iced Caffe Latte,Low,Low,Low,Low,Low,Low,Low,160.0,drinks,Rich,Refreshing,['Milk'],160 Cal. Freshly brewed espresso and milk served over ice. Allergens: Contains Milk,Panera (13000 North I-35 Frontage Road),4.6,4.89 USD,Beverages
 Horizon Reduced Fat Organic White Milk,Medium,Low,High,Medium,Low,Low,Low,110.0,drinks,Sweet,Creamy,['Milk'],110 Cal. Organic White Milk. Allergens: Contains Milk,Panera (13000 North I-35 Frontage Road),4.6,2.09 USD,Beverages
@@ -2158,34 +2108,13 @@ Dessert,Low,Low,Low,High,Medium,Low,High,500.0,dessert,Sweet,Rich,None,Dessert,P
 Golden Fried Chicken,High,Medium,Low,Medium,High,Low,Low,600.0,main course,Savory,Spicy,None,"2 pc. or 3 pc. Chicken • Single Side • 30 oz. Drink • Fresh-Baked Roll
 ",Golden Chick (9600 N Lamar),4.6,10.07 USD,Picked for you
 Nashville Hot Sandwich,High,Medium,Low,High,Medium,Low,Low,600.0,main course,Spicy,Tangy,None,"Our Big Crispy Chicken Breast coated  in our signature Nashville Hot Seasoning, topped with our Lotta Zing® Sauce and 5 pickles  on a freshly baked yeast roll bun.",Golden Chick (9600 N Lamar),4.6,6.59 USD,Specials
-Spring Sampler,High,Medium,Low,High,Medium,Low,Low,800.0,main course,Savory,Rich,None,"10 tenders (gravy or sauce), 4 piece mixed chicken of your choice (fried / roasted / mix &amp; match), 4 rolls, 2 family sides.",Golden Chick (9600 N Lamar),4.6,0.0 USD,Specials
 Family 4-Pak,High,Medium,Low,High,Medium,Low,Low,800.0,main course,Savory,Spicy,None,4 hand-breaded chicken sandwiches and family fries (or other side choice) – Choose any combination of Big &amp; Golden® or Nashville Hot Chicken Sandwiches.,Golden Chick (9600 N Lamar),4.6,27.59 USD,Specials
-Golden Tenders®,High,Low,Low,High,Medium,Low,Medium,700.0,main course,Savory,Umami,None,4 pc. or 6 pc. Golden Tenders® • Gravy or Sauce • Single Side • 30 oz. Drink • Fresh-Baked Roll ,Golden Chick (9600 N Lamar),4.6,0.0 USD,Golden Combos
 Southern Fried Catfish,High,Low,Low,Medium,High,Low,Low,750.0,main course,Savory,Umami,None,3 pc. or 5 pc. Catfish • Single Side • 30 oz. Drink • Fresh-Baked Roll,Golden Chick (9600 N Lamar),4.6,14.39 USD,Golden Combos
 Golden Roast,Low,Medium,Low,High,Medium,Low,Medium,800.0,main course,Savory,Rich,None,"2 Pieces or 3 Pieces • Single Side • 30 oz. Drink • Fresh-Baked Roll
 ",Golden Chick (9600 N Lamar),4.6,10.07 USD,Golden Combos
-16 Golden Tenders®,High,Medium,Low,Low,Medium,Low,Low,600.0,main course,Savory,Umami,None,"Tenders Only Option: 16 Golden Tenders® • Family Size Gravy or 5 Dipping Sauces • 4 Fresh-Baked Rolls
-
-Family Meal Option: 16 Golden Tenders® • Family Size Gravy or 5 Dipping Sauces • 2 Family Sides • 4 Fresh-Baked Rolls",Golden Chick (9600 N Lamar),4.6,0.0 USD,Family Meals
-The Mixer,High,Medium,Low,Medium,Medium,Low,Low,850.0,main course,Savory,Spicy,None,8 Pieces Mixed Chicken • 16 Golden Tenders® • Family Size Gravy or 5 Dipping Sauces • 3 Family Sides • 8 Fresh-Baked Rolls,Golden Chick (9600 N Lamar),4.6,0.0 USD,Family Meals
 Tender Salad,Medium,Medium,High,Low,Medium,High,Low,350.0,salads,Refreshing,Savory,['Dairy'],Two Golden Tenders® Atop A Romaine &amp; Iceberg Blend • Grape Tomatoes • Broccoli • Carrots • Jack &amp; Cheddar Cheese Blend,Golden Chick (9600 N Lamar),4.6,9.59 USD,Salads
 Fresh Salad,Low,Medium,High,Medium,Medium,High,Low,200.0,salads,Refreshing,Savory,"['Dairy', 'Soy', 'Gluten']","Romaine &amp; Iceberg Blend • Grape Tomatoes • Broccoli • Carrots • Jack &amp; Cheddar Cheese Blend
 ",Golden Chick (9600 N Lamar),4.6,3.23 USD,Sides
-15 Party Pak (Feeds Up To 15),High,Medium,Low,High,Medium,Low,Low,500.0,main course,Savory,Rich,None,"ALL 15 PARTY PAKS COME WITH 15 FRESH-BAKED ROLLS &amp; 2 HALF-PAN SIDES
-
-Option 1: 30 Pieces Mixed Chicken (Fried, Roasted or Half and Half) • 2 Pieces Chicken/Serving (344 - 579 cal/serving)
-
-Option 2: 60 Tenders Gravy (2 Large) or Sauces (16) • 4 Tenders/Serving (432 cal/serving)
-
-Option 3: 15 Pieces Mixed Chicken (Fried, Roasted or Half and Half) • 30 Tenders Gravy (1 Large) or Sauces (8)
-• 1 Piece Chicken &amp; 2 Tenders/serving (388 - 505 cal/serving)",Golden Chick (9600 N Lamar),4.6,0.0 USD,Party Paks
-50 Party Pak (Feeds Up To 50),Medium,Low,Low,Medium,Medium,Low,Low,500.0,main course,Savory,Spicy,None,"ALL 50 PARTY PAKS COME WITH 50 ROLLS &amp; 4 HALF-PAN SIDES
-
-Option 1: 100 Pieces Mixed Chicken (Fried, Roasted or Half and Half) • 2 Pieces Chicken/Serving (344 - 579 cal/serving)
-
-Option 2: 200 Tenders Gravy (8 Large) or Sauces (50) • 4 Tenders/Serving (432 cal/serving)
-
-Option 3: 50 Pieces Mixed Chicken (Fried, Roasted or Half and Half) • 100 Tenders Gravy (4 Large) or Sauce (25) • 1 Piece Chicken &amp; 2 Tenders/serving (388 - 505 cal/serving)",Golden Chick (9600 N Lamar),4.6,0.0 USD,Party Paks
 LEMON CREAM CAKE,Low,Medium,High,High,Medium,Low,High,600.0,dessert,Sweet,Rich,"['Dairy', 'Eggs', 'Gluten']",Two layers of lemon soaked cream cake filled with lemon mascarpone mousse and finished with powdered sugar.,Johnny Carino's (Austin-Parmer),4.3,11.29 USD,Picked for you
 STRAWBERRY CHEESECAKE,Low,Low,Low,High,High,Low,High,500.0,dessert,Sweet,Creamy,None,"Creamy, smooth vanilla New York cheesecake served with strawberry sauce and topped with whipped cream.",Johnny Carino's (Austin-Parmer),4.3,11.89 USD,Picked for you
 CLASSIC FETTUCCINE ALFREDO,Medium,Low,Low,High,High,Low,Low,700.0,main course,Creamy,Spicy,['Dairy'],Choice of Alfredo sauce or Green Chile Jalapeño Alfredo.,Johnny Carino's (Austin-Parmer),4.3,17.49 USD,Picked for you
@@ -2198,9 +2127,6 @@ ITALIAN NACHOS,Medium,Low,Low,High,Medium,Low,Low,500.0,appetizers,Savory,Spicy,
 MOZZERELLA STICKS,Medium,Low,Low,Medium,High,Low,Low,600.0,appetizers,Spicy,Savory,None,"Breaded in special seasonings. Served with spicy marinara sauce.
 ",Johnny Carino's (Austin-Parmer),4.3,9.99 USD,APPETIZERS
 BAKED STUFFED MUSHROOMS,Medium,Low,Medium,High,Medium,Medium,Low,350.0,appetizers,Savory,Creamy,None,"Spinach, Parmesan, red onions and garlic topped with lemon basil cream sauce, Roma tomatoes and basil.",Johnny Carino's (Austin-Parmer),4.3,14.39 USD,APPETIZERS
-JOHNNY'S 15 MINUTE WINGS,High,Low,Low,Medium,High,Low,Medium,100.0,appetizers,Savory,Spicy,None,"Choose traditional or boneless and your
-choice of one of the following sauces or seasonings.
-Served with a side of ranch (100 Cal.).",Johnny Carino's (Austin-Parmer),4.3,0.0 USD,APPETIZERS
 APPETIZER SAMPLER,Medium,Low,Low,High,Medium,Low,Low,750.0,appetizers,Spicy,Savory,"['Gluten', 'Dairy']","Enjoy all your Johnny Carino’s favorites – Italian Nachos (Chicken, Sausage or Combo), Mozzarella Sticks and Hand-Breaded Calamari.
 Served with spicy marinara sauce.",Johnny Carino's (Austin-Parmer),4.3,23.79 USD,APPETIZERS
 PEPPERONI HAWAIIAN,High,Medium,Low,Low,Medium,Low,Low,700.0,main course,Savory,Sweet,None,"Pepperoni, sliced ham, pineapple, Mozzarella. 
@@ -2298,7 +2224,6 @@ CHEESE TORTELLONI,Medium,Low,Low,High,Medium,Low,Low,650.0,main course,Savory,Sw
 CHICKEN NUGGETS WITH FRIES,High,Medium,Low,High,Medium,Low,Low,750.0,appetizers,Savory,Sweet,"['Gluten', 'Soy', 'Egg']",Breaded chicken nuggets served with fries and a side of BBQ Sauce.,Johnny Carino's (Austin-Parmer),4.3,8.79 USD,KIDS MEALS
 MAC AND CHEESE,Medium,Low,Low,High,High,Low,Medium,600.0,main course,Creamy,Savory,None,Bowtie pasta with Alfredo cheese sauce.,Johnny Carino's (Austin-Parmer),4.3,8.79 USD,KIDS MEALS
 RIBS WITH FRIES,High,Medium,Low,Medium,High,Low,Medium,800.0,main course,Savory,Rich,"['gluten', 'dairy']",Ribs slathered with BBQ sauce and served with fries,Johnny Carino's (Austin-Parmer),4.3,11.29 USD,KIDS MEALS
-KIDS SUNDAE,Low,Low,Low,High,Medium,Low,High,250.0,dessert,Sweet,Creamy,"['Dairy', 'Nuts']","One scoop of vanilla ice cream with drizzled chocolate sauce, whipped cream and a cherry on top.",Johnny Carino's (Austin-Parmer),4.3,0.0 USD,KIDS MEALS
 ADD CHICKEN,High,Medium,Medium,Low,Low,Low,Low,250.0,main course,Savory,Umami,['Garlic'],"Sliced grilled chicken seasoned with salt, pepper and garlic.",Johnny Carino's (Austin-Parmer),4.3,5.69 USD,SIDES
 ADD SHRIMP,High,Medium,Low,Low,Medium,Low,Low,250.0,appetizers,Savory,Spicy,None,"Sauteed shrimp seasoned with salt, pepper and garlic.",Johnny Carino's (Austin-Parmer),4.3,7.49 USD,SIDES
 ADD SALMON,High,Medium,Medium,Low,High,Low,Low,450.0,main course,Savory,Umami,None,"Grilled salmon filet seasoned with salt, pepper and garlic.",Johnny Carino's (Austin-Parmer),4.3,12.49 USD,SIDES
@@ -2385,8 +2310,6 @@ Jala-Bac Burger,High,Medium,Low,Medium,High,Low,Low,750.0,main course,Savory,Spi
 Hot Tea,Low,Low,Low,Low,Low,Low,Low,2.0,drinks,Refreshing,Floral,None,"0 Cal. Hot Teas. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none",Panera (13000 North I-35 Frontage Road),4.6,2.89 USD,Beverages
 Hot Tea,Low,Low,Low,Low,Low,Low,Low,2.0,drinks,Refreshing,Floral,None,Lipton® Black Hot Tea,Denny's (1-35 North Parmer Lane),4.5,2.79 USD,Beverages
 Smoothies,Medium,Low,High,High,Low,Medium,High,250.0,drinks,Sweet,Refreshing,"['Dairy', 'Fruit']",Made with fruit and nonfat vanilla yogurt,Denny's (1-35 North Parmer Lane),4.5,4.35 USD,Beverages
-Build Your Own Burger,Medium,Low,Low,Medium,High,Low,Low,750.0,main course,Savory,Umami,None,"Lettuce, tomato, red onions, pickles and a brioche bun included. Served with wavy-cut fries.
-",Denny's (1-35 North Parmer Lane),4.5,0.0 USD,Burgers
 Double Cheeseburger,High,Medium,Low,Medium,High,Low,Low,700.0,main course,Savory,Rich,None,"Choice of American, Swiss or aged white cheddar cheese with lettuce, tomato, red onions and pickles on a brioche bun.
 ",Denny's (1-35 North Parmer Lane),4.5,13.5 USD,Burgers
 Bacon Avocado Cheeseburger,High,Medium,Low,Medium,High,Low,Low,700.0,main course,Savory,Creamy,None,"Bacon, fresh avocado, aged white cheddar cheese, mayo, lettuce, tomato, red onions and pickles on a brioche bun.
@@ -2418,7 +2341,6 @@ The Super Bird®,High,Medium,Low,Medium,High,Low,Low,750.0,main course,Savory,Ri
 Diner Classic Patty Melt,High,Medium,Low,Medium,High,Low,Low,850.0,main course,Savory,Umami,None,"A 100% beef patty with caramelized onions, Swiss &amp; American cheeses and Diner Q sauce on grilled potato bread. Served with wavy-cut fries.   ",Denny's (1-35 North Parmer Lane),4.5,11.94 USD,Melts &amp; Handhelds 
 Nashville Hot Chicken Melt,High,Medium,Low,Medium,High,Low,Low,750.0,main course,Spicy,Savory,"['Gluten', 'Dairy']","A golden-fried chicken breast tossed in Nashville Hot sauce with Swiss cheese, tomato, pickles and mayo on grilled Texas toast.  Served with wavy-cut fries.",Denny's (1-35 North Parmer Lane),4.5,12.98 USD,Melts &amp; Handhelds 
 The Big Dipper Melt,Medium,Low,Low,Medium,Medium,Low,Low,750.0,main course,Umami,Savory,None,"Tender pot roast with melted Swiss cheese, caramelized onions and mayo on grilled Texas toast. Served with French onion au jus for dipping. Served with wavy-cut fries.",Denny's (1-35 North Parmer Lane),4.5,13.92 USD,Melts &amp; Handhelds 
-Ultimate Omelette®,High,Medium,Medium,Low,High,Medium,Low,750.0,main course,Savory,Umami,None,"Three-egg omelette with sausage, bacon, fire-roasted bell peppers &amp; onions, sautéed mushrooms, tomatoes and cheddar cheese. Served with hash browns and choice of bread.",Denny's (1-35 North Parmer Lane),4.5,0.0 USD,Omelettes
 Cinnamon Roll Pancake Breakfast,Medium,Low,Low,High,Medium,Low,High,850.0,main course,Sweet,Creamy,None,"Buttermilk pancakes cooked with cinnamon crumb topping and topped with cream cheese icing. Served with eggs,* hash browns, plus bacon strips or sausage links. ",Denny's (1-35 North Parmer Lane),4.5,12.57 USD,Pancakes &amp; Crepes
 Double Berry Pancake Breakfast,Medium,Low,Medium,High,Medium,Low,High,700.0,main course,Sweet,Savory,"['eggs', 'bacon', 'sausage']","Buttermilk pancakes cooked with blueberries and topped with fresh seasonal berries and bananas. Served with eggs,* hash browns, plus bacon strips or sausage links.",Denny's (1-35 North Parmer Lane),4.5,11.11 USD,Pancakes &amp; Crepes
 Triple Double Slam,High,Medium,Low,High,Medium,Low,Low,800.0,main course,Savory,Rich,None,"Choose from two buttermilk pancakes, one slice of French toast or a biscuit &amp; gravy. Served with eggs*, plus bacon strips or sausage links.",Denny's (1-35 North Parmer Lane),4.5,7.78 USD,Slams
@@ -2439,12 +2361,8 @@ Strawberry Vanilla Crepe,Low,Low,High,Medium,Medium,Low,High,350.0,dessert,Sweet
 Berry selection based on seasonality.
 ",Denny's (1-35 North Parmer Lane),4.5,6.22 USD,Sides
 Hash Browns,Low,Low,Low,High,Medium,Low,Low,300.0,appetizers,Savory,Umami,None,Side of hash browns ,Denny's (1-35 North Parmer Lane),4.5,3.62 USD,Sides
-Hash Browns,Low,Low,Low,High,Medium,Low,Low,300.0,appetizers,Savory,Umami,None,"Our hash browns are lightly seasoned, crispy bites of gooDDness. Pair them with your breakfast sandwich and your morning pit stop gets even more tasty.  Perfectly paired with our freshly brewed Hot or Iced Coffee.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Snacks &amp; Sides
 Slices of Toast,Low,Low,Low,High,Low,Low,Low,150.0,appetizers,Savory,Rich,['Gluten'],2 slices of toast ,Denny's (1-35 North Parmer Lane),4.5,2.69 USD,Sides
 English Muffin,Low,Low,Low,Medium,Low,Low,Low,150.0,appetizers,Savory,Nutty,None,1 English Muffin,Denny's (1-35 North Parmer Lane),4.5,2.69 USD,Sides
-English Muffin,Low,Low,Low,Medium,Low,Low,Low,150.0,appetizers,Savory,Nutty,None,"Enjoy a classic morning favorite. Our oven-toasted english muffin goes great with your favorite spread.
-
-With a freshly frewed Hot or Iced Coffee, you can't go wrong.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
 Buttermilk Biscuits,Medium,Low,Low,High,Medium,Low,Low,250.0,appetizers,Savory,Rich,"['Gluten', 'Dairy']",2 Buttermilk Biscuits,Denny's (1-35 North Parmer Lane),4.5,2.69 USD,Sides
 Grilled Ham Slice,High,Low,Low,Low,Medium,Low,Low,160.0,main course,Savory,Umami,['Pork'],1 Grilled Ham Slice,Denny's (1-35 North Parmer Lane),4.5,4.77 USD,Sides
 Wavy Cut French Fries,Low,Low,Low,High,Medium,Low,Low,400.0,appetizers,Savory,Salty,None,Side of wavy cut French Fries,Denny's (1-35 North Parmer Lane),4.5,3.83 USD,Sides
@@ -2461,81 +2379,12 @@ Garlic Cheesy Bread,Medium,Low,Low,High,Medium,Low,Low,160.0,appetizers,Savory,R
 Pepperoni Poppers,Medium,Low,Low,High,High,Low,Low,120.0,appetizers,Spicy,Savory,None,"Fresh dough rolled with pepperoni and 100% real cheese, then baked to perfection and brushed with garlic butter. Includes choice of ranch or marinara dipping sauce. 12 count (120 Cal/Piece) ",Cicis Pizza (Austin - N. Lamar),4.1,3.99 USD,Picked for you
 Jalapeño Poppers,Medium,Low,Low,High,Medium,Low,Low,110.0,appetizers,Spicy,Rich,"['dairy', 'gluten']","Fresh dough brushed with garlic butter, rolled with jalapeños and 100% real cheese, then baked to perfection. Includes choice of ranch or marinara dipping sauce. 12 Count (110 Cal/Piece)",Cicis Pizza (Austin - N. Lamar),4.1,3.99 USD,Featured
 Buffalo Chicken Poppers,High,Medium,Low,High,Medium,Low,Low,100.0,appetizers,Spicy,Savory,"['Chicken', 'Dairy', 'Gluten']","Fresh dough rolled with buffalo pizza sauce, chicken and 100% real cheese, then baked to perfection and brushed with garlic butter. Includes choice of buffalo or ranch dipping sauce. 12 count (100 Cal/Piece) ",Cicis Pizza (Austin - N. Lamar),4.1,3.99 USD,Featured
-Create Your Own Pizza,Medium,Medium,Low,High,Medium,Low,Low,285.0,main course,Savory,Umami,"['Cheese', 'Gluten']","Crispy, golden, pan-baked crust topped with tomato sauce and 100% real cheese. 
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
-*Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Create Your Own
-Meat Eater,High,Medium,Low,Medium,High,Low,Low,300.0,main course,Savory,Umami,"['Gluten', 'Dairy', 'Pork']","Traditional crust brushed with garlic butter and topped with tomato sauce, 100% real cheese, pepperoni, ham, beef and sausage. 
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
-*Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-Supreme,High,Medium,Low,Medium,High,Medium,Medium,290.0,main course,Savory,Umami,None,"Traditional crust brushed with garlic butter and topped with tomato sauce, 100% real cheese, pepperoni, beef, sausage, red onions, green peppers and mushrooms. 
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-Veggie,Medium,Medium,Medium,Medium,Medium,Medium,Medium,200.0,main course,Savory,Umami,None,"Traditional crust brushed with garlic butter and topped with tomato sauce, 100% real cheese, red onions, green peppers, mushrooms and black olives. 
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-Hawaiian,Medium,Low,Low,High,Medium,Low,Low,250.0,main course,Sweet,Savory,"['Dairy', 'Gluten']","Traditional crust brushed with garlic butter and topped with tomato sauce, 100% real cheese, ham and pineapple. 
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-Zesty Veggie,Medium,Medium,High,Medium,Medium,Medium,Low,250.0,main course,Savory,Umami,None,"Traditional crust brushed with garlic butter and topped with Zesty Parmesan Ranch sauce, 100% real cheddar cheese, mushrooms, red onions, green peppers, tomatoes and Parmesan oregano seasoning.
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-Classic Chicken,High,Low,Medium,High,Medium,Low,Low,250.0,main course,Savory,Umami,"['Chicken', 'Cheese', 'Mushrooms']","Traditional crust brushed with garlic butter and topped with Zesty Parmesan Ranch Sauce, chicken, mushrooms, 100% real cheese and Parmesan oregano seasoning. 
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-Chicken Bacon Club,High,Medium,Low,Medium,High,Low,Low,280.0,main course,Savory,Umami,"['Gluten', 'Dairy', 'Soy', 'Pork']","Traditional crust topped with 100% Real Cheddar Cheese, Premium Chicken, Bacon and Bruschetta Tomatoes with zesty Parmesan Ranch.
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-Alfredo,Low,Low,Low,High,High,Low,Low,360.0,main course,Creamy,Rich,None,"Traditional crust brushed with garlic butter and topped with creamy Alfredo sauce and 100% real cheese. 
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-Spinach Alfredo,Medium,Low,High,High,High,Medium,Low,250.0,main course,Creamy,Savory,None,"Traditional crust brushed with garlic butter and topped with creamy Alfredo sauce blended with spinach and 100% real cheese. 
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-Buffalo Chicken,Medium,Medium,Low,High,Medium,Low,Low,250.0,main course,Spicy,Savory,None,"Traditional crust brushed with garlic butter and topped with spicy Buffalo sauce, 100% real cheese and chicken, then drizzled with more Buffalo sauce. 
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-BBQ Pork,Medium,Low,Low,Medium,High,Low,Medium,330.0,main course,Sweet,Tangy,"['Cheese', 'Gluten']","Traditional crust brushed with garlic butter and topped sweet and tangy honey BBQ sauce with seasoned pulled pork, 100% real cheese, and cheddar.
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-Zesty Pepperoni,Medium,Low,Low,High,Medium,Low,Low,280.0,main course,Savory,Tangy,None,"Traditional crust brushed with garlic butter and topped with Zesty Parmesan Ranch sauce, 100% real cheese and pepperoni. 
-Medium and Large: 10 slices
-Giant, Deep Dish, Flatbread, and Stuffed Crust: 12 slices
-
- *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Specialty Pizza
-Hot Buffalo Wings,High,Medium,Low,Low,High,Low,Low,340.0,appetizers,Spicy,Tangy,['Chicken'],"Tender chicken wings tossed in hot, spicy Buffalo sauce. ",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Wings
-BBQ Wings,Medium,Low,Low,Low,High,Low,High,75.0,appetizers,Sweet,Charred,None,"Tender chicken wings tossed in sweet, smoky BBQ sauce. (70-80 calories/wing)",Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Wings
-Naked Wings,High,Low,Low,Low,High,Low,Low,65.0,appetizers,Savory,Savory,None,Tender chicken wings crisped to perfection. (60-70 calories/wing),Cicis Pizza (Austin - N. Lamar),4.1,0.0 USD,Wings
 Fudge Brownies,Low,Medium,Low,High,High,Low,High,250.0,dessert,Rich,Sweet,None,"Rich, fudgy chocolate Brownies dusted with powdered sugar. 24 count 
 
 *Calories listed are by slice",Cicis Pizza (Austin - N. Lamar),4.1,5.99 USD,Sides &amp; Desserts
 Cheese Danish,Medium,Low,Low,High,High,Low,High,350.0,dessert,Sweet,Rich,None,"Flaky, butter croissant dough with soft, warm cheese in the center. - VEGETARIAN",Starbucks (Parmer &amp; Dessau),4.7,3.95 USD,Picked for you
 Iced Brown Sugar Oatmilk Shaken Espresso,Low,Low,Low,Medium,Low,Low,High,250.0,drinks,Sweet,Rich,"['dairy', 'gluten']","First we shake Starbucks® Blonde espresso, brown sugar and cinnamon together, and then top it off with oatmilk and ice for a cool lift to power you through your day.",Starbucks (Parmer &amp; Dessau),4.7,5.95 USD,Picked for you
 Chocolate Croissant,Low,Low,Low,High,High,Low,High,350.0,dessert,Sweet,Rich,None,"Two generous pieces of chocolate wrapped in a butter croissant with soft, flaky layers and a golden-brown crust. - VEGETARIAN",Starbucks (Parmer &amp; Dessau),4.7,3.95 USD,Picked for you
-Chocolate Croissant,Low,Low,Low,High,High,Low,High,350.0,dessert,Sweet,Rich,None,A flaky classic croissant with three chocolate batons for sweetness in every bite.,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
 Caffè Americano,Low,Low,Low,Low,Low,Low,Low,15.0,drinks,Rich,Umami,None,"Espresso shots topped with hot water create a light layer of crema culminating in this wonderfully rich cup with depth and nuance. Pro Tip: For an additional boost, ask your barista to try this with an extra shot.",Starbucks (Parmer &amp; Dessau),4.7,3.15 USD,Hot Coffees
 Caffè Misto,Low,Low,Low,Low,Low,Low,Low,100.0,drinks,Rich,Creamy,['Milk'],A one-to-one combination of fresh-brewed coffee and steamed milk add up to one distinctly delicious coffee drink remarkably mixed.,Starbucks (Parmer &amp; Dessau),4.7,3.75 USD,Hot Coffees
 Flat White,Low,Low,Low,Low,Medium,Low,Medium,120.0,drinks,Rich,Creamy,None,"Smooth ristretto shots of espresso get the perfect amount of steamed whole milk to create a not-too-strong, not-too-creamy, just-right flavor.",Starbucks (Parmer &amp; Dessau),4.7,4.95 USD,Hot Coffees
@@ -2601,7 +2450,6 @@ Evolution Fresh® Organic Vital Berry,Low,Low,Medium,Medium,Low,Low,Medium,200.0
 Starbucks BAYA™ Energy Mango Guava,Low,Low,Low,Medium,Low,Low,High,100.0,drinks,Refreshing,Sweet,['Caffeine'],Starbucks BAYA™ Energy Mango Guava crafted with mango juice and tropical guava flavor to lift you with some feel-good energy. It comes with 160 mg of caffeine naturally found in the fruit of the coffee plant. Taste how Starbucks does energy!,Starbucks (Parmer &amp; Dessau),4.7,3.75 USD,Cold Drinks
 Starbucks BAYA™ Energy Raspberry Lime,Low,Low,Medium,High,Low,Low,High,150.0,drinks,Refreshing,Tangy,None,Starbucks BAYA™ Energy Raspberry Lime crafted with the brightness of raspberry juice and a spritz of lime to lift you with some feel-good energy. It comes with 160 mg of caffeine naturally found in the fruit of the coffee plant. Taste how Starbucks does energy!,Starbucks (Parmer &amp; Dessau),4.7,3.75 USD,Cold Drinks
 Avocado Spread,Medium,Medium,High,Low,High,High,Low,200.0,condiment,Savory,Spicy,None,"Avocadoes mixed with lime, sea salt, garlic and a touch of spice—specially packaged to maintain freshness without the use of heat, additives or preservatives.",Starbucks (Parmer &amp; Dessau),4.7,1.45 USD,Hot Breakfast
-Avocado Spread,Medium,Medium,High,Low,High,High,Low,200.0,condiment,Savory,Spicy,None,"Pre-packaged cup of avocado spread made with nothing but avocado, sea salt, pepper and lemon juice.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
 Impossible™ Breakfast Sandwich,High,Medium,Low,Medium,Medium,Low,Low,550.0,main course,Savory,Umami,None,The savory Impossible™ Sausage Made from Plants combined with a cage-free fried egg and aged Cheddar cheese on an artisan sesame ciabatta bun. - VEGETARIAN - HIGH-PROTEIN,Starbucks (Parmer &amp; Dessau),4.7,6.25 USD,Hot Breakfast
 Cinnamon Raisin Bagel,Medium,Low,Low,High,Low,Medium,High,320.0,appetizers,Sweet,Rich,None,"Soft, chewy and thick New York–style bagel swirled with sweet cinnamon and raisins. Available with cream cheese or butter. 
 - VEGAN 
@@ -2686,78 +2534,7 @@ HERSHEY'S Double Chocolate Hand Pie,Low,Low,Low,High,High,Low,High,500.0,dessert
 Cinnamon Apple Hand Pie,Low,Low,Medium,High,Medium,Low,High,350.0,dessert,Sweet,Savory,None,"Our perfectly-cooked pie crust, filled with classic cinnamon apple filling. Don't fix what ain't broke.",It's Just Wings (12901 N IH 35),4.4,3.0 USD,Desserts
 Blueberry Lemon Hand Pie,Low,Low,Medium,High,Medium,Medium,High,250.0,dessert,Sweet,Tangy,None,Sweet blueberries mixed with a touch of lemon zest and finished off with tart lemon frosting.,It's Just Wings (12901 N IH 35),4.4,3.0 USD,Desserts
 3-Pack Sampler of Hand Pies,Medium,Low,Low,High,Medium,Low,High,400.0,dessert,Sweet,Tangy,None,"All three of our delicious hand pies in one sampler pack! Includes HERSHEY'S Double Chocolate, Cinnamon Apple and Blueberry Lemon. No substitutions. Supplies may vary depending on hand pie availability.",It's Just Wings (12901 N IH 35),4.4,8.0 USD,Desserts
-Latte,Low,Low,Low,Medium,Low,Low,Medium,250.0,drinks,Rich,Creamy,['Dairy'],"Made with warm, frothy milk and blended with our rich espresso, our Latte is the perfect balance of creamy and smooth to get you goin'.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Espresso Drinks
-Iced Latte,Low,Low,Low,Medium,Low,Low,Medium,120.0,drinks,Rich,Creamy,['milk'],"Made with milk and blended with our rich espresso, our Iced Latte is the perfect balance of cool, creamy and smooth to get you goin'.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Espresso Drinks
-Iced Cappuccino,Low,Low,Low,Medium,Low,Low,Medium,120.0,drinks,Refreshing,Rich,['Coffee'],Our Iced Cappuccino is brewed with freshly ground espresso beans and then blended with milk served over ice for a refreshing cup of frothy and bold deliciousness. ,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Espresso Drinks
-Macchiato,Low,Low,Low,Low,Low,Low,Medium,250.0,drinks,Rich,Creamy,[],"Did someone say layers on layers of hand-crafted deliciousness? Made with creamy milk and topped with two shots of espresso, our Macchiato is just what you're looking for.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Espresso Drinks
-Iced Macchiato,Low,Low,Low,Low,Low,Low,Low,100.0,drinks,Creamy,Sweet,None,"Looking for layers on layers of hand-crafted deliciousness? Made with creamy milk and topped with two shots of espresso then served over ice, our Iced Macchiato is just what you need.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Espresso Drinks
-Iced Americano,Low,Low,Low,Low,Low,Low,Low,10.0,drinks,Refreshing,Umami,None,"Our Iced Americano blends two shots of Dunkin's 100% Rainforest Alliance Certified™ espresso richness with water for a refreshing, espresso-forward cup of woah!",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Espresso Drinks
-Iced Chai Latte,Low,Low,Low,Medium,Low,Low,High,250.0,drinks,Sweet,Spicy,['Milk'],"A sweetened blend of chai spices, including cinnamon, cardamom and nutmeg, combined with milk.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Iced Drinks
-Iced Matcha Latte,Low,Low,Medium,Medium,Low,Low,High,150.0,drinks,Sweet,Refreshing,['Milk'],Sweetened matcha green tea blended with milk,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Iced Drinks
 Iced Tea,Low,Low,Low,Low,Low,Low,High,100.0,drinks,Refreshing,Sweet,None,Cold-brewed iced tea unsweetened.,Tropicana Cuban Restaurants,4.6,2.0 USD,Cold and Hot Beverages
-Iced Tea,Low,Low,Low,Low,Low,Low,High,100.0,drinks,Refreshing,Sweet,None,"Quench your thirst with freshly brewd iced tea you just can't find in a bottle. Dunkin's Iced Tea is a flavorful brust of refreshment to keep you energized for the afternoon. Dunkin' Donuts' delicious freshly brewed Iced Teas are made-to-order, Unsweetened or Sweetened. 
-
-Blueberry and Raspberry flavors are a fun way to put a fruity twist on your favoritre Dunkin' Ice Tea! Try one today. ",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Iced Drinks
-Strawberry Dragonfruit Lemonade Dunkin' Refresher,Low,Low,Medium,High,Low,Low,High,150.0,drinks,Sweet,Refreshing,None,"Your favorite fruit flavors combined with refreshingly sweet lemonade. Available in Strawberry Dragonfruit, Peach Passion Fruit, and Mango Pineapple flavors.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Dunkin' Refreshers
-Peach Passion Fruit Lemonade Dunkin Refresher,Low,Low,Low,Medium,Low,Low,High,150.0,drinks,Sweet,Refreshing,None,"Your favorite fruit flavors combined with refreshingly sweet lemonade. Available in Strawberry Dragonfruit, Peach Passion Fruit, and Mango Pineapple flavors.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Dunkin' Refreshers
-Mango Pineapple Lemonade Dunkin Refresher,Low,Low,Medium,High,Low,Low,High,150.0,drinks,Sweet,Refreshing,None,"Your favorite fruit flavors combined with refreshingly sweet lemonade. Available in Strawberry Dragonfruit, Peach Passion Fruit, and Mango Pineapple flavors.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Dunkin' Refreshers
-Strawberry Dragonfruit Dunkin' Refresher,Low,Low,High,Medium,Low,Low,High,100.0,drinks,Sweet,Refreshing,['green tea'],"Made with B vitamins and energy from green tea. Try Strawberry Dragonfruit flavored, Peach Passion Fruit flavored and Mango Pineapple flavored.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Dunkin' Refreshers
-Peach Passion Fruit Dunkin' Refresher,Low,Low,High,Medium,Low,Low,High,150.0,drinks,Refreshing,Sweet,['Green tea'],"Made with B vitamins and energy from green tea. Try Strawberry Dragonfruit flavored, Peach Passion Fruit flavored and Mango Pineapple flavored.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Dunkin' Refreshers
-Mango Pineapple Dunkin' Refresher,Low,Low,High,Medium,Low,Low,High,150.0,drinks,Refreshing,Tangy,None,"Made with B vitamins and energy from green tea. Try Strawberry Dragonfruit flavored, Peach Passion Fruit flavored and Mango Pineapple flavored.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Dunkin' Refreshers
-Peach Passion Fruit Dunkin' Coconut Refresher,Low,Low,High,Medium,Low,Low,High,150.0,drinks,Sweet,Refreshing,"['coconut milk', 'vitamin B']","Fruit-flavored drinks combined with coconutmilk and B Vitamins for a refreshing boost of energy. Varieties include: Strawberry Dragonfruit, Peach Passion Fruit and Mango Pineapple flavors.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Dunkin' Refreshers
-Mango Pineapple Dunkin' Coconut Refresher,Low,Low,High,High,Low,Low,High,200.0,drinks,Refreshing,Sweet,None,"Fruit-flavored drinks combined with coconutmilk and B Vitamins for a refreshing boost of energy. Varieties include: Strawberry Dragonfruit, Peach Passion Fruit and Mango Pineapple flavors.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Dunkin' Refreshers
-Chai Latte,Low,Low,Low,Medium,Low,Low,High,250.0,drinks,Sweet,Spicy,None,"A sweetened blend of chai spices, including cinnamon, cardamom and nutmeg, combined with milk.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Hot Drinks
-Matcha Latte,Low,Low,Medium,Medium,Low,Low,High,150.0,drinks,Sweet,Rich,None,Sweetened matcha green tea blended with milk,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Hot Drinks
-Box O' Joe® Coffee,Low,Low,Low,Medium,Low,Low,Medium,50.0,drinks,Rich,Bitter,None,"Our Box O' Joe® is a great addition to any gathering: it's the one thing everyone can agree on.  America's Favorite Coffee is the perfect way to get a group running.
-
-Be a real hero and pick up some Donuts or Munchkins(R) while you're at it.
-
-Contains ten 10oz servings which is equivalent to ten small cups of DD coffee.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Hot Drinks
-Box O' Joe® Hot Chocolate,Low,Low,Low,Medium,Low,Low,High,250.0,drinks,Sweet,Rich,['Dairy'],"Our rich, delicious hot chocolate is available by the box!  Pick some up to keep the crowd warm and cozy.  ",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Hot Drinks
-Frozen Matcha Latte,Low,Low,Medium,Medium,Low,Low,High,250.0,drinks,Sweet,Refreshing,None,Sweetened matcha green tea blended with milk,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Frozen Drinks
-Frozen Chocolate,Low,Low,Low,High,Medium,Low,High,300.0,dessert,Sweet,Refreshing,None,"Our refreshing Frozen Chocolate is ready to customize with your choice of flavor swirl, and drizzle.  ",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Frozen Drinks
-Sweet Black Pepper Bacon Breakfast Sandwich,Medium,Low,Low,High,High,Low,Low,650.0,main course,Sweet,Savory,"['bacon', 'egg', 'cheese', 'croissant']",Extra bacon caramelized with sweet black pepper seasoning with egg and cheese on a buttery croissant.,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Wake-Up Wrap® - Sweet Black Pepper Bacon ,Medium,Low,Medium,Medium,Medium,Low,Low,350.0,main course,Sweet,Savory,None,Bacon caramelized with sweet black pepper seasoning with egg and white cheddar wrapped in a tortilla.,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Tomato Pesto Grilled Cheese,Medium,Low,High,High,Medium,Low,Low,550.0,main course,Savory,Rich,None,"Roasted tomatoes, pesto spread and melted white cheddar cheese between two pieces of toasted sourdough bread.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Grilled Cheese,Medium,Low,Low,High,Medium,Low,Low,450.0,main course,Savory,Creamy,None,Toasted Sourdough bread with white cheddar and American cheese.,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Sourdough Breakfast Sandwich,Medium,Low,Medium,High,Medium,Low,Low,550.0,main course,Savory,Rich,None,"Two eggs, five half slices of bacon and white cheddar on two pieces of sourdough toast. ",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Egg and Cheese,High,Medium,Low,Medium,Medium,Low,Low,400.0,main course,Savory,Rich,None,Starting your day early? Why not take a minute to relax and enjoy the savory taste of our Egg and Cheese Sandwich.,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Sausage Egg and Cheese,High,Medium,Low,Low,High,Low,Low,450.0,main course,Savory,Umami,"['Eggs', 'Dairy', 'Gluten']","Finding yourself hungry in search of breakfast? Dunkin' brings a tasty blend of egg and cheese, and then adds irresistable sausage to tame any hunger. Consider yourself full.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Bacon Egg and Cheese,High,Low,Medium,Low,High,Low,Low,500.0,main course,Savory,Salty,None,"Go the extra mile by bringing bacon to your Dunkin' Breakfast Sandwich. Bacon with egg and cheese, can you say, ""Yum!""",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Turkey Sausage Egg and Cheese,High,Medium,Medium,Low,Medium,Low,Low,350.0,main course,Savory,Rich,None,"Get your day off to a delicious start. Try our flavorful turkey sausage, add and American  cheese on English Muffin, or Wake-Up  Wrap® ",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Wake-up Wrap® - Sausage Egg and Cheese,High,Medium,Low,Medium,Medium,Low,Low,300.0,main course,Savory,Rich,"['Dairy', 'Egg', 'Gluten']","Start your morning off right with one of our delicious, made-to-order Wake-Up Wrap® sandwiches. Select from a variety of your favorite breakfast ingredients, they are the perfect portion of oven-toasted gooDD. And at such a great value, we undertstand if you want to grab one in the afternoon or evening too.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Wake-up Wrap® - Bacon Egg and Cheese,Medium,Low,Low,Medium,High,Low,Low,300.0,appetizers,Savory,Rich,"['Bacon', 'Cheese']","Start your morning off right with one of our delicious, made-to-order Wake-Up Wrap® sandwiches. Select from a variety of your favorite breakfast ingredients, they are the perfect portion of oven-toasted gooDD. And at such a great value, we undertstand if you want to grab one in the afternoon or evening too.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Wake-up Wrap® - Turkey Sausage Egg and Cheese,Medium,Low,Medium,Medium,Medium,Low,Low,300.0,main course,Savory,Umami,"['Egg', 'Cheese', 'Sausage']","Start your morning off right with one of our delicious, made-to-order Wake-Up Wrap® sandwiches. Select from a variety of your favorite breakfast ingredients, they are the perfect portion of oven-toasted gooDD. And at such a great value, we undertstand if you want to grab one in the afternoon or evening too.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Wake-up Wrap® - Egg and Cheese,Medium,Low,Medium,Medium,Medium,Low,Low,300.0,appetizers,Savory,Umami,None,"Start your morning off right with one of pur delicious, made-to-order Wake-Up Wrap sandwiches. Select from a variety of your favorite breakfast ingredients, they are the perfect portion of oven -toasted gooDD. And at such a great value, we understand if you want to grab one in the afternoon or evening too",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Sandwiches &amp; Wraps
-Donuts,Low,Low,Low,High,Medium,Low,High,350.0,dessert,Sweet,Rich,None,"To give you even more reason to smile, we've removed all artificial dyes from our donuts! Treat yourself or share the joy by bringing people together with a dozen donuts made in these delicious varieties*: Glazed, Chocolate Frosted, Strawberry Frosted, Old Fashioned, Boston Kreme, Glazed Chocolate Cake and Jelly.
-*Limited Edition and Custom Photo Donuts may contain artificial dyes.
-",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
-Assorted 6 Donuts,Low,Low,Low,High,Medium,Low,High,300.0,dessert,Sweet,Rich,None,"Share the joy by bringing people together with an assortment of half dozen or dozen donuts made in these delicious varieties*: Glazed, Double Chocolate, Strawberry Frosted, Vanilla Frosted, Chocolate Frosted, Old Fashioned, Boston Kreme, Glazed Chocolate Cake, Powdered, Vanilla Creme, Glazed Blueberry, and Jelly.
-
-*Assortment and availability will vary depending on location.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
-Assorted 12 Donuts,Low,Low,Low,High,High,Low,High,300.0,dessert,Sweet,Rich,None,"Share the joy by bringing people together with an assortment of half dozen or dozen donuts made in these delicious varieties*: Glazed, Double Chocolate, Strawberry Frosted, Vanilla Frosted, Chocolate Frosted, Old Fashioned, Boston Kreme, Glazed Chocolate Cake, Powdered, Vanilla Creme, Glazed Blueberry, and Jelly.
-
-*Assortment and availability will vary depending on location.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
-MUNCHKINS® Donut Hole Treats,Low,Low,Low,High,Medium,Low,High,200.0,dessert,Sweet,Sweet,"['gluten', 'dairy', 'egg']","Our Famous Munchkins® make the perfect treat to share with friends, family and colleagues alike. Made fresh daily in a variety of colorful and delicious flavors, there's a favorite for everyone.
-
-Be a real hero and pick up a Box O' Joe® while you're there.
-
-Available in the following varieties*: Glazed; Glazed Chocolate; Jelly; Powdered Sugar; Cinnamon; Sugar Raised.
-
-(*Availabilty may vary depending on location)",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
-Muffins,Low,Low,Low,High,Medium,Low,High,250.0,dessert,Sweet,Rich,None, A classic morning favorite that we're perfected over 60 years. Muffins are the perfect pair to a freshly brewed coffee. Available in the following varieties: Blueberry &amp; Coffee Cake,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
-4 Muffins,Low,Low,Low,High,Medium,Medium,High,300.0,dessert,Sweet,Rich,None, A classic morning favorite that we're perfected over 60 years. Muffins are the perfect pair to a freshly brewed coffee. Available in the following varieties: Blueberry &amp; Coffee Cake,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
-Coffee Roll,Low,Low,Low,High,Medium,Low,High,300.0,dessert,Sweet,Spicy,None,Glazed coffee roll laced with pure cinnamon ,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
-Apple Fritter,Low,Low,Medium,High,Medium,Low,High,325.0,dessert,Sweet,Spicy,['Gluten'],"Glazed Apple Fritter, laced with pure cinnamon and apple filling",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
-Croissant,Low,Low,Low,High,Medium,Low,Medium,250.0,appetizers,Sweet,Rich,"['Gluten', 'Dairy']","A delicious way to start your day. Our warm, freshly baked croissant is the perfect pair to a freshly brewed Hot or Iced Coffee",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
-Bagel with Cream Cheese Spread,Low,Low,Low,High,Medium,Low,Medium,300.0,appetizers,Sweet,Creamy,['Dairy'],"A delicious way to start your day. Soft and chewy, these freshly baked bagels come in some of your favorite varieties.
-Bagels Available in the following varieties*: Plain; Cinnamon Raisin; Multigrain; Sesame Seed; Everything.   
-*Availability may vary depending on location.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
-Bagels,Medium,Low,Low,High,Low,Medium,Low,250.0,appetizers,Savory,Sweet,None,"A delicious way to start your day. Soft and chewy, these freshly baked bagels come in some of your favorite varieties.
-Bagels Available in the following varieties*: Plain; Cinnamon Raisin; Multigrain; Sesame Seed; Everything.   
-*Availability may vary depending on location.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Donuts &amp; Bakery
-Sweet Black Pepper Snackin' Bacon,Medium,Low,Low,Low,High,Low,Medium,250.0,appetizers,Sweet,Spicy,"['Pork', 'Black Pepper']",8 snack-sized strips of Sweet Black Pepper Bacon.,Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Snacks &amp; Sides
-Plain Stuffed Bagel Minis,Medium,Low,Low,High,Medium,Low,Medium,350.0,appetizers,Creamy,Savory,None,"Plain mini bagels filled with cream cheese, served warm. Two per order.",Dunkin' (1610 E Parmer Lane),4.4,0.0 USD,Snacks &amp; Sides
 NEW! Mozzarella Sticks,Medium,Low,Low,High,High,Low,Low,400.0,appetizers,Savory,Rich,None,"Lightly battered Mozzarella cheese, fried to perfection and served with marinara sauce.",Red Robin Gourmet Burgers (13000 N IH35 SBFR #5),4.6,9.89 USD,Picked for you
 Red's Cheeseburger,High,Medium,Low,Medium,High,Low,Low,750.0,main course,Savory,Umami,"['Dairy', 'Gluten']","Beef, grilled chicken, turkey or veggie patty with American cheese and lettuce, tomatoes and pickles on the side.",Red Robin Gourmet Burgers (13000 N IH35 SBFR #5),4.6,7.69 USD,Picked for you
 Pretzel Bites,Medium,Low,Low,High,Medium,Low,Low,340.0,appetizers,Savory,Rich,None,Bear claw pretzel bites and New Belgium® Fat Tire® beer cheese.,Red Robin Gourmet Burgers (13000 N IH35 SBFR #5),4.6,7.89 USD,Picked for you
@@ -2876,36 +2653,6 @@ Beast Style,High,Medium,Low,Medium,High,Low,Low,750.0,main course,Savory,Umami,"
 Impossible™ Karl's Deluxe,High,Medium,Low,Medium,Medium,Low,Low,700.0,main course,Savory,Umami,None,"A patty melt served Karl’s Style with a crispy seasoned Impossible™ patty, caramelized onions and cheese on a toasty inverted bun",MrBeast Burger (12509 North Lamar Boulevard),3.3,10.99 USD,Impossible™ Burgers 
 Crispy Chicken Tender Sandwich,High,Medium,Low,Medium,Medium,Low,Low,600.0,main course,Savory,Tangy,"['Mayo', 'Pickles']","with mayo, shredded lettuce and pickles",MrBeast Burger (12509 North Lamar Boulevard),3.3,7.49 USD,Sandwiches
 Crinkle Fries,Low,Medium,Low,High,Medium,Low,Medium,350.0,appetizers,Spicy,Tangy,None,"Crinkle fries seasoned with spicy red pepper, garlic, paprika, sugar, and a hint of lime",MrBeast Burger (12509 North Lamar Boulevard),3.3,3.49 USD,Sides
-Fresh Pack (12 oz),Low,Low,Medium,High,High,Low,High,800.0,dessert,Sweet,Rich,None,Your favorite ice cream flavor - enough to share or not!,Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Ice Cream to Share
-DIY Sundae Kit,Low,Low,Low,High,Medium,Low,High,600.0,dessert,Sweet,Rich,[],"Our new DIY Sundae Kits have everything you need to build sundaes at home. Customize your kit with two pre-packed quarts of your favorite ice cream flavors, three toppings, a can of whipped cream, and of course cherries, to top it all off. Includes cups to build sundaes, spoons, and napkins.",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,DIY
-Single Scoop,Low,Low,Low,Medium,Low,Low,Medium,200.0,dessert,Sweet,Creamy,None,4 oz. scoop,Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Ice Cream
-Double Scoop,Low,Low,Low,Medium,Low,Low,High,300.0,dessert,Sweet,Creamy,None,2-4 oz. scoops,Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Ice Cream
-Triple Scoop,Low,Low,Low,High,Low,Low,Medium,250.0,dessert,Sweet,Rich,None,3-4 oz. scoops,Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Ice Cream
-1 Scoop Sundae,Low,Low,Low,Medium,Medium,Low,High,250.0,dessert,Sweet,Nutty,None,"Your choice of a 2.5 oz. scoop of ice cream topped with your choice of wet topping, chopped almonds, and a cherry. Delivered products will not include whipped cream.",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Classic Sundaes
-3 Scoop Sundae,Low,Low,Low,High,Medium,Low,High,600.0,dessert,Sweet,Nutty,['Almonds'],"Your choice of 3-2.5 oz. scoops of ice cream topped with your choice of wet topping, chopped almonds, and a cherry. Delivered products will not include whipped cream.",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Classic Sundaes
-Banana Split,Low,Medium,Low,High,Medium,Low,High,550.0,dessert,Sweet,Rich,None,"Three of your favorite ice cream flavors, two banana slices, your choice of wet topping, all crowned with chopped almonds, and three cherries. ",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Premium Sundaes
-Milkshake,Low,Low,Low,High,Medium,Low,High,300.0,drinks,Sweet,Creamy,None,Your choice of ice cream blended with Milk and Simple Syrup,Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Frozen Beverages
-Cappuccino Blast®,Low,Low,Low,High,High,Low,High,400.0,drinks,Rich,Creamy,"['Dairy', 'Caffeine']",A rich combination of coffee from 100% Arabica coffee beans and ice cream blended to perfection.,Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Frozen Beverages
-Smoothie,Low,Low,Low,Medium,Low,Low,Medium,150.0,drinks,Refreshing,Sweet,None,Refreshing frozen treat made with real pureed fruit and fat free vanilla frozen yogurt.,Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Frozen Beverages
-Mangonada,Low,Low,Low,High,Low,Medium,High,300.0,drinks,Sweet,Savory,None,"Sweet. Savory. So good. Try a taste of our new Mangonada! Our tantalizing tribute to the traditional Mexican frozen beverage combines the sweetness of mango with the tang of Tajín® seasoning and chamoy.
-
-
-",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Frozen Beverages
-Freeze,Low,Low,Low,High,Medium,Low,High,300.0,drinks,Sweet,Refreshing,['Dairy'],Ice cream blended with your choice of soda,Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Frozen Beverages
-Ice Cream Float,Low,Low,Low,Medium,Medium,Low,High,250.0,drinks,Sweet,Refreshing,None,Your choice of soda/soft drink poured over your favorite ice cream,Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Frozen Beverages
-Fruit Blast,Low,Low,High,Medium,Low,Low,Medium,200.0,drinks,Sweet,Refreshing,None,"Your choice of mango, strawberry, or tropical fruit base blended with ice",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Frozen Beverages
-Shark,Low,Low,Low,Medium,Low,Low,High,200.0,dessert,Sweet,Rich,None,"One scoop of your favorite flavor in a specialty cup, topped with a chocolate fin and sea of sprinkles.",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Creature Creations® Into the Sea
-Dolphin,Low,Low,Low,Medium,Low,Low,High,200.0,dessert,Sweet,Rich,None,"One scoop of your favorite flavor in a specialty cup, topped with a chocolate tail and sea of sprinkles.",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Creature Creations® Into the Sea
-Chocolate Chip Cookie Dough Polar Pizza® Ice Cream Treat,Low,Low,Low,High,High,Low,High,750.0,dessert,Sweet,Creamy,None,"A chocolate chip cookie crust with Chocolate Chip Cookie Dough Ice Cream, topped with cookie dough pieces, rainbow sprinkles and drizzled with marshmallow topping. Serves 8.",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Desserts
-Peanut Butter 'n Chocolate REESE'S® Peanut Butter Cup Polar Pizza® Ice Cream Treat,Low,Medium,Low,High,High,Medium,High,750.0,dessert,Sweet,Rich,[],"A chocolate chip cookie crust with Peanut Butter 'n Chocolate Ice Cream, topped with REESE’S® Peanut Butter Cup pieces and drizzled with REESE'S® peanut butter sauce and fudge topping.  Serves 8.",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Desserts
-Mint Chocolate Chip Polar Pizza® Ice Cream Treat,Low,Low,Low,High,Medium,Low,High,800.0,dessert,Sweet,Rich,None,"Double Fudge Brownie with Mint Chocolate Chip ice cream topped with OREO® Cookie pieces, fudge and marshmallow toppings. Serves 8.",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Desserts
-OREO® Cookies 'n Cream Polar Pizza® Ice Cream Treat,Low,Low,Low,High,High,Low,High,740.0,dessert,Sweet,Rich,"['Gluten', 'Dairy', 'Soy']","A double fudge brownie crust with OREO® Cookies 'n Cream Ice Cream, topped with crushed OREO® Cookies pieces and drizzled with marshmallow and fudge topping. Serves 8.",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Desserts
-Fudge Roll Cake,Low,Low,Low,High,Medium,Low,High,500.0,dessert,Sweet,Rich,"['dairy', 'gluten', 'nuts']","Delight in a classic combination of ice cream and chocolate cake rolled together and deliciously covered in fudge, decorated with cherry-topped rosettes.",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Desserts
-Turtle Pie,Low,Low,Low,High,High,Low,High,500.0,dessert,Sweet,Rich,None,You'll appease the entire gang with our Pralines 'n Cream ice cream topped with Caramel Praline Topping and pecans set upon a delicious chocolate pie crust.,Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Desserts
-Mud Pie,Medium,Low,Low,High,High,Low,High,600.0,dessert,Sweet,Nutty,None,"Enjoy our delicious Jamoca® Almond Fudge ice cream in an all new way! Try it atop a graham crust with fudge topping, whipped cream, and a sprinkling of nuts. ",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Desserts
-Grasshopper Pie,Low,Medium,Low,High,Medium,Low,High,350.0,dessert,Sweet,Rich,None,"Don't be green with envy! Enjoy cool Mint Chocolate Chip ice cream over a chocolate pie crust, topped with an elegant fudge lattice. ",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Desserts
-Chocolate Dipped Banana,Low,Low,Low,Medium,Medium,Medium,High,200.0,dessert,Sweet,Nutty,None,"Whole frozen banana dipped in dark chocolate and decorated with your choice of white chocolate drizzle, chopped almonds, or rainbow sprinkles served on a popsicle stick. ",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Desserts
-Fruit Blast Bar,Low,Low,High,Medium,Low,Low,High,150.0,dessert,Refreshing,Sweet,['None'],A refreshing frozen treat with your choice of mango or strawberry fruit served on a popsicle stick. ,Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Desserts
 Cajun Chicken Pasta,High,Medium,Low,Medium,High,Low,Low,850.0,main course,Spicy,Rich,None,"Grilled chicken, penne in Alfredo sauce, topped with chile spices, Parmesan, tomatoes, green onions. Served with garlic toast.",Chili's (12901 N IH 35),4.5,14.04 USD,Picked for you
 Southwestern Eggrolls,High,Medium,Medium,Medium,High,Medium,Low,500.0,appetizers,Spicy,Savory,None,"These aren’t your ordinary eggrolls. Crispy flour tortillas, chicken, black beans, corn, jalapeño Jack cheese, red peppers, spinach. Served with avocado-ranch.",Chili's (12901 N IH 35),4.5,10.44 USD,Picked for you
 Molten Chocolate Cake,Low,Low,Low,High,High,Low,High,800.0,dessert,Sweet,Rich,None,"Chocolate cake with a molten chocolate center, topped with vanilla ice cream in a chocolate shell. Big enough to share, too good to actually do it.",Chili's (12901 N IH 35),4.5,9.04 USD,Picked for you
@@ -2977,7 +2724,6 @@ Pepper Pals® Pepperoni Pizza,Medium,Low,Low,High,Medium,Low,Medium,800.0,main c
 Crunchwrap Supreme®,High,Medium,Low,High,Medium,Low,Low,840.0,main course,Savory,Rich,None,"A flour tortilla layered with seasoned beef, warm nacho cheese sauce, a crispy tostada shell, crispy lettuce, ripe tomatoes and topped with cool sour cream all wrapped in our signature crunchwrap fold and grilled to go.",Taco Bell (1548 E. Parmer Lane),4.6,5.63 USD,Picked for you
 Beefy Melt Burrito,High,Medium,Low,High,Medium,Low,Low,600.0,main course,Savory,Rich,None,"Seasoned Rice, Seasoned Beef, Nacho Cheese Sauce, Fiesta Strips, Three Cheese Blend, Reduced Fat Sour Cream wrapped in a warm tortilla.",Taco Bell (1548 E. Parmer Lane),4.6,2.4 USD,Picked for you
 Beefy 5-Layer Burrito,Medium,Low,Low,Medium,Medium,Low,Low,600.0,main course,Savory,Creamy,None,"A warm tortilla is covered in a layer of warm nacho cheese and topped with seasoned beef, refried beans, cool sour cream and shredded cheddar cheese. Then it's wrapped creating a layer of nacho cheese all around the outside of the burrito.",Taco Bell (1548 E. Parmer Lane),4.6,4.31 USD,Picked for you
-2 Scoop Sundae,Low,Low,Low,Medium,Medium,Low,High,400.0,dessert,Sweet,Nutty,['Almonds'],"Your choice of 2-2.5 oz. scoops of ice cream topped with your choice of wet topping, chopped almonds, and a cherry. Delivered products will not include whipped cream.",Baskin-Robbins (1610 E Parmer Lane),4.4,0.0 USD,Classic Sundaes
 Toasted Cheddar Chalupa,High,Medium,Low,Medium,High,Low,Low,650.0,main course,Savory,Cheesy,None,"A Chalupa shell with 6-month aged cheddar toasted on the outside and with seasoned beef, reduced-fat sour cream, tomatoes, lettuce, and cheddar cheese on the inside.",Taco Bell (1548 E. Parmer Lane),4.6,5.15 USD,Featured
 Black Bean Toasted Cheddar Chalupa,Medium,Low,Medium,High,Medium,Medium,Low,650.0,main course,Savory,Rich,['Dairy'],"A Chalupa shell with 6-month aged cheddar toasted on the outside and with black beans, reduced-fat sour cream, tomatoes, lettuce, and cheddar cheese on the inside.",Taco Bell (1548 E. Parmer Lane),4.6,5.15 USD,Featured
 Toasted Cheddar Chalupa Deluxe Box,Medium,Low,Low,High,Medium,Low,Medium,800.0,main course,Savory,Rich,None,"Includes one Toasted Cheddar Chalupa with grilled, all-white-meat chicken, one Crunchy Taco, chips and nacho cheese sauce, and a medium fountain drink.",Taco Bell (1548 E. Parmer Lane),4.6,8.99 USD,Featured
@@ -3030,10 +2776,6 @@ Black Bean Chalupa Supreme®,Medium,Medium,Low,High,Medium,High,Low,370.0,main c
 Black Bean Crunchwrap Supreme®,Medium,Low,Medium,High,Medium,High,Medium,600.0,main course,Savory,Umami,"['Dairy', 'Egg', 'Meat']","Flour tortilla, black beans, nacho cheese sauce, tostada shell, lettuce, tomatoes &amp; reduced fat sour cream layers grilled in a crunchwrap. Item is lacto-ovo, allowing for dairy &amp; egg consumption. Preparation method may lead to cross contact with meat",Taco Bell (1548 E. Parmer Lane),4.6,5.03 USD,Specialties
 Regular Potato Wedges,Low,Medium,Low,Medium,Medium,Low,Low,250.0,appetizers,Savory,Tangy,None,THICK-CUT POTATO WEDGES / SOUR CREAM-CHIVE SEASONED,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,4.49 USD,Picked for you
 Large French Fries,Low,Medium,Low,High,High,Low,Low,450.0,appetizers,Savory,Salty,None,NATURAL-CUT FRIES / SEA SALT / COARSE PEPPER,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,6.29 USD,Picked for you
-Traditional Wings,High,Medium,Low,Low,High,Low,Low,650.0,appetizers,Spicy,Savory,None,"AWARD-WINNING &amp; AUTHENTIC BUFFALO, NEW YORK-STYLE WINGS.",Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,0.0 USD,Wings &amp; Tenders
-Cauliflower Wings,Medium,Medium,Medium,Medium,Low,High,Low,350.0,appetizers,Spicy,Savory,['Gluten'],BREADED CAULIFLOWER / HANDSPUN IN YOUR FAVORITE SAUCE OR DRY SEASONING / GREEN ONIONS,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,0.0 USD,Wings &amp; Tenders
-Hand-Breaded Tenders,High,Medium,Low,High,Medium,Low,Low,650.0,main course,Savory,Umami,None,HAND-BREADED CHICKEN TENDERS / CHOICE OF SAUCE OR DRY SEASONING / NATURAL-CUT FRENCH FRIES,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,0.0 USD,Wings &amp; Tenders
-Naked Tenders®,High,Low,Low,Medium,Medium,Low,Low,450.0,main course,Savory,Umami,None,CHICKEN TENDERS / GRILLED / CHOICE OF SAUCE OR SEASONING / NATURAL-CUT FRENCH FRIES,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,0.0 USD,Wings &amp; Tenders
 Everything Pretzel Knots,Low,Medium,Low,High,Medium,Low,Medium,350.0,appetizers,Savory,Rich,"['Gluten', 'Dairy', 'Mustard', 'Honey']",PRETZEL KNOTS / EVERYTHING SEASONING / NEW BELGIUM FAT TIRE® BEER CHEESE / HONEY MUSTARD,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,8.79 USD,Appetizers
 Hatch Queso,Low,Medium,Low,High,Medium,Low,Low,500.0,appetizers,Savory,Spicy,None,MELTED WHITE CHEDDAR / YOUNG GUNS HATCH CHILES / HOUSE-MADE PICO DE GALLO / HOUSE-MADE TORTILLA CHIPS / MAKE IT WILD™: ADD A WILD SAUCE DRIZZLE FOR NO CHARGE,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,7.99 USD,Appetizers
 Street Tacos,High,Medium,Low,Medium,Medium,Low,Low,350.0,appetizers,Spicy,Tangy,['Dairy'],MINI SOFT FLOUR TORTILLAS / PULLED CHICKEN / PARMESAN GARLIC / HOUSE-MADE PICO DE GALLO / SOUTHWESTERN RANCH / CILANTRO,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,6.79 USD,Appetizers
@@ -3058,7 +2800,6 @@ Smoked Brisket Sandwich,High,Medium,Low,Medium,High,Low,Low,700.0,main course,Sa
 Classic Chicken Sandwich,High,Medium,Low,Medium,Medium,Low,Low,600.0,main course,Savory,Rich,None,HAND-BREADED CHICKEN / PICKLES / MAYO / CHALLAH BUN / NATURAL-CUT FRENCH FRIES / MAKE IT WILD™: ADD A WILD SAUCE® DRIZZLE FOR NO CHARGE,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,9.29 USD,Sandwiches
 Buffalo Ranch Chicken Wrap,High,Low,Medium,Medium,Medium,Low,Low,700.0,main course,Spicy,Rich,None,HAND-BREADED CHICKEN / MEDIUM BUFFALO SAUCE / RANCH / CHEDDAR-JACK CHEESE / SHREDDED ICEBERG LETTUCE / TOMATOES / FLOUR TORTILLA / HOUSE-MADE TORTILLA CHIPS &amp; SALSA,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,11.29 USD,Wraps
 Grilled Chicken Buffalitos®,High,Medium,Medium,Medium,Medium,Low,Low,500.0,appetizers,Savory,Spicy,"['Dairy', 'Gluten']",PULLED CHICKEN / CHOICE OF SAUCE OR DRY SEASONING / CHEDDAR-JACK CHEESE BLEND / SHREDDED ICEBERG / HOUSEMADE PICO DE GALLO / CREMA / FLOUR TORTILLAS,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,11.29 USD,Wraps
-Classic Chicken Wrap,High,Medium,Medium,Medium,Medium,Low,Low,650.0,main course,Savory,Savory,None,HAND-BREADED OR PULLED CHICKEN / CHOICE OF SAUCE OR DRY SEASONING / CHEDDAR-JACK CHEESE / SHREDDED ICEBERG LETTUCE / TOMATOES / FLOUR TORTILLA / HOUSE-MADE TORTILLA CHIPS &amp; SALSA,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,0.0 USD,Wraps
 Brisket Street Tacos,High,Medium,Low,Medium,Medium,Low,Low,500.0,main course,Savory,Sweet,"['Gluten', 'Dairy']",SMOKED PULLED BRISKET / SWEET BBQ / GRILLED ONIONS / HOUSE-MADE GUACAMOLE / HOUSE-MADE PICO DE GALLO / COTIJA CHEESE / FLOUR TORTILLAS / HOUSE-MADE TORTILLA CHIPS &amp; SALSA,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,12.99 USD,Wraps
 Buffalo Wedge Salad,High,Medium,Medium,Low,Medium,Medium,Low,350.0,salads,Spicy,Savory,None,HAND-BREADED CHICKEN / WEDGED LETTUCE / BACON / TOMATOES / MEDIUM BUFFALO SAUCE / BLEU CHEESE DRESSING / BLEU CHEESE CRUMBLES / GREEN ONIONS,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,14.79 USD,Greens
 Chopped Cobb Salad,High,Medium,High,Low,High,Medium,Low,350.0,salads,Savory,Rich,"['Egg', 'Dairy', 'Gluten']",PULLED CHICKEN / ROMAINE LETTUCE / TOMATOES / BACON / HARD-BOILED EGG / RANCH DRESSING / BLEU CHEESE CRUMBLES / GREEN ONIONS / BUFFALO SEASONING / EVERYTHING SEASONING,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,13.79 USD,Greens
@@ -3067,7 +2808,6 @@ Kids' Cheeseburger,Medium,Low,Low,High,Medium,Low,Low,600.0,main course,Savory,R
 Kids' Boneless Wings,High,Medium,Low,Medium,High,Low,Low,700.0,appetizers,Savory,Creamy,None,KID'S PORTION OF 4 WINGS. SERVED WITH FRIES AND MILK.,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,6.99 USD,Kids' Meals
 Kids' Traditional Wings,Medium,Low,Low,High,High,Low,Medium,600.0,appetizers,Savory,Sweet,['milk'],KID'S PORTION OF 4 WINGS. SERVED WITH FRIES AND MILK,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,6.99 USD,Kids' Meals
 Cheesecake Slice,Low,Low,Low,High,High,Low,High,600.0,dessert,Sweet,Rich,"['Dairy', 'Eggs']",NEW YORK STYLE CHEESECAKE WITH CARAMEL SAUCE,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,5.79 USD,Desserts
-IZZE Sparkling Juice,Low,Low,Low,High,Low,Low,High,90.0,drinks,Sweet,Refreshing,None,"IZZE SPARKLING JUICE IS THE BUBBLY, 70% REAL FRUIT JUICE BEVERAGE WITH A SPLASH OF SPARKLING WATER. NO PRESERVATIVES. NO ADDED SUGAR. CALORIE TOTAL REPRESENTS THE SELECTED ITEM BELOW",Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,0.0 USD,Drinks
 Medium,Low,Low,Low,Low,Low,Low,Low,150.0,appetizers,Spicy,Umami,None,individual side can NOT be split into halves,Peace Bakery and Deli (N Lamar Blvd),4.7,7.99 USD,Sides
 Medium,Low,Low,Low,Low,Low,Low,Low,150.0,appetizers,Spicy,Umami,None,"CLASSIC WING SAUCE, COMFORTABLY HOT.",Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,0.6 USD,Side of Sauce &amp; Seasonings
 Mango Habanero™,Low,Low,Low,Medium,Low,Low,High,150.0,appetizers,Spicy,Sweet,['Habanero'],HABANERO HEAT WITH A TOUCH OF SWEET,Buffalo Wild Wings (13000 N Interstate 35 Bldg 4),4.2,0.6 USD,Side of Sauce &amp; Seasonings
@@ -3203,10 +2943,6 @@ Sugar Cookie,Low,Low,Low,High,Medium,Low,High,200.0,dessert,Sweet,Rich,None,Soft
 Fudge Brownie,Low,Medium,Low,High,High,Low,High,350.0,dessert,Rich,Sweet,None,"Fudge brownie. Need we say more? Rich, fudge brownie made with the finest cocoa and chocolate.",Schlotzsky's (Canyon Ridge Dr),4.7,2.79 USD,Desserts
 Cinnabon® Classic Roll,Low,Low,Low,High,High,Low,High,880.0,dessert,Sweet,Rich,None,"Warm dough, legendary Makara® Cinnamon, topped with rich cream cheese frosting.",Schlotzsky's (Canyon Ridge Dr),4.7,4.69 USD,Cinnabon
 MiniBon®,Low,Low,Low,High,High,Low,High,300.0,dessert,Sweet,Rich,None,The perfect fun-sized craving.,Schlotzsky's (Canyon Ridge Dr),4.7,3.49 USD,Cinnabon
-CinnaPacks™,Low,Low,Medium,High,Medium,Low,High,800.0,dessert,Sweet,Rich,None,"Bring our bakery home.
-Pack Sizes:
-• Classic Rolls 4 Pack ·  2 Pack
-",Schlotzsky's (Canyon Ridge Dr),4.7,0.0 USD,Cinnabon Packs
 Loaded Baked Potato Soup,Medium,Low,Low,High,High,Low,Low,350.0,appetizers,Rich,Savory,None,"Hearty cream soup with potatoes and bacon bits. Topped with cheddar cheese, bacon bits and green onions.",Schlotzsky's (Canyon Ridge Dr),4.7,5.69 USD,Soups
 Tomato Basil,Low,Medium,High,Medium,Medium,Low,Medium,250.0,appetizers,Savory,Creamy,None,"Fresh, ripe tomatoes, basil and onions blended into a smooth, creamy soup. Topped with croutons and parmesan cheese.",Schlotzsky's (Canyon Ridge Dr),4.7,5.69 USD,Soups
 B&J Choc Caramel Cookie Dough Topp'd,Low,Low,Low,High,High,Low,High,800.0,dessert,Sweet,Rich,"['Milk', 'Nuts']",New BJ Topp'd has unique flavors with Chocolate Ganache top.,7-Eleven (1625 E Parmer Ln),4.8,7.29 USD,Deals & Favorites
